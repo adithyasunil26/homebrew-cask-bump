@@ -2,9 +2,6 @@ import os
 
 a="""
 
-
-
-
 """
 
 a=a.split("\n")
