@@ -1,5 +1,4 @@
 d="""
-keepingyouawake
 keeweb
 keka
 kekaexternalhelper
@@ -48,7 +47,6 @@ knotes
 knox
 knuff
 koa11y
-koala
 kobo
 kode54-cog
 kodelife
@@ -91,12 +89,10 @@ laverna
 lazarus
 lazpaint
 lazy
-lbry
 league-displays
 league-of-legends
 leanote
 leap-motion
-ledger-live
 leech
 leela
 lego-digital-designer
@@ -184,7 +180,6 @@ luxmark
 luyten
 lx-music
 lyn
-lynkeos
 lynx
 lynxlet
 lyrics-master
@@ -198,16 +193,13 @@ maccpuid
 maccy
 macdependency
 macdive
-macdjview
 macdown
 macdroid
 macdropany
 macfuse
 macfusion
-macfusion-ng
 macgamestore
 macgdbp
-macgesture
 machacha
 machg
 machoexplorer
@@ -229,7 +221,6 @@ mactex-no-gui
 mactracker
 macupdate
 macupdater
-macvim
 macwinzipper
 macx-dvd-ripper-mac-free-edition
 macx-dvd-ripper-pro
@@ -429,7 +420,6 @@ modelio
 modern-csv
 modmove
 modulair
-moefe-google-translate
 mojibar
 molotov
 molsoftbrowser
@@ -490,8 +480,6 @@ mullvadvpn
 multi
 multibit-hd
 multifirefox
-multimc
-multipass
 multipatch
 multiscan-3b
 multitouch
