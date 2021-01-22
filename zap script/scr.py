@@ -9,3 +9,5 @@ for i in b:
   os.system(cmd)
   os.system('open -a {}'.format(i))
   os.system('brew cask createzap {}'.format(i)+'> ./output.txt')
+
+#doesnt work
