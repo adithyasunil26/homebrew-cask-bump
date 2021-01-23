@@ -14,6 +14,20 @@ boostnote : 0.16.1 ==> 1911df4445c9c7f1f805
 bzflag : 2.4.20 ==> 2.99_network_rewrite
 cellprofiler : 4.0.7 ==> 11710
 
+2
+comictagger : 1.2.3 ==> 0565c2a87a706c64e033
+datweatherdoe : 1.4.1 ==> 1.21
+dmenu-mac : 0.5.0 ==> 0.37
+doomsday-engine : 2.3.0 ==> 3663
+dotnet-sdk : 5.0.102,52bd43f7-88c9-420c-80c0-f19bae344293:a8d56f01fdb6f71adb5e22c3ddd1c3c6 ==> 15.0.0
+doxygen : 1.9.1 ==> 1_9_1
+dukto : R6 ==> 5.0-50.1
+ealeksandrov-cd-to : 2.8.0 ==> 2_8_0
+eiskaltdcpp : 2.4.0 ==> 2.4.0-76
+electron : 11.1.0 ==> 13.0.0-nightly.20210122
+electron-cash : 4.2.3 ==> 10
+electrum : 4.0.9 ==> 10
+fastonosql : 2.6.0 ==> 2.5.1
 
 5
 nosqlclient : 2.2.0 ==> 4.0.1
