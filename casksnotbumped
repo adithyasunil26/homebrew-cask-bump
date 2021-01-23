@@ -45,6 +45,9 @@ fly : 6.7.2 ==> 6.7.3
 freemind : 1.0.1 ==> 1.1.0
 fugu : 1.2.1pre1 ==> 1.2
 fvim : 0.2.348,81a158c ==> 0.2.349+9f6430d
+fantasy-map-generator : 1.3 ==> 1.4
+fastrawviewer : 1.7.2.1696 ==> 1.8.0.1716
+fedora-media-writer : 4.1.7 ==> 4.1.80
 geany : 1.37 ==> 1.37.1
 gingko : 2.4.15 ==> 2.5.0
 github : 2.6.2-a01e1223 ==> 2.6.2
