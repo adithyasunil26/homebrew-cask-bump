@@ -5,6 +5,7 @@ b="""
 b=b.split("\n")
 
 for i in b:
+#  print(i)
   if i!='':
     l=i.split(": ")
     if l[0]!='':
