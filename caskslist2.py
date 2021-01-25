@@ -60,7 +60,6 @@ colorsnapper
 colorwell
 colour-contrast-analyser
 combine-pdfs
-comictagger
 comma-chameleon
 command-tab-plus
 commander-one
@@ -128,7 +127,6 @@ data-integration
 data-rescue
 datazenit
 datovka
-datweatherdoe
 davmail
 db-browser-for-sqlite
 dbeaver-community
@@ -170,7 +168,6 @@ displaycal
 displays
 djv
 djview
-dmenu-mac
 do-not-disturb
 docker
 docker-toolbox
@@ -179,15 +176,12 @@ dockstation
 dogecoin
 dolphin
 domainbrain
-doomsday-engine
 dosbox
 dosbox-x
 doteditor
 dotnet
-dotnet-sdk
 double-commander
 downie
-doxygen
 dozer
 dragthing
 drama
@@ -201,7 +195,6 @@ dropshare
 dteoh-devdocs
 duckietv
 duet
-dukto
 dungeon-crawl-stone-soup-console
 dungeon-crawl-stone-soup-tiles
 duo-connect
@@ -215,7 +208,6 @@ dyn-updater
 dynamic-dark-mode
 dynobase
 eagle
-ealeksandrov-cd-to
 easy-move-plus-resize
 easyeda
 easyfind
@@ -224,7 +216,6 @@ ebmac
 eddie
 edex-ui
 editaro
-eiskaltdcpp
 ejector
 elasticwolf
 electerm
@@ -232,12 +223,9 @@ electorrent
 electric-sheep
 electricbinary
 electrocrud
-electron
 electron-api-demos
-electron-cash
 electron-fiddle
 electronmail
-electrum
 electrum-ltc
 electrumsv
 element
@@ -274,7 +262,6 @@ extraterm
 falcon-sql-client
 fanny
 fantasy-map-generator
-fastonosql
 fastrawviewer
 fauxpas
 faxbot

@@ -10,7 +10,6 @@ firefox
 fiscript
 fl-studio
 flame
-fldigi
 flexiglass
 flic
 flightgear
@@ -21,7 +20,6 @@ flow
 flow-e
 flowdock
 flowsync
-flrig
 flume
 fluor
 flux
@@ -203,8 +201,7 @@ hubstaff
 hugin
 hwsensors
 hype
-hyper
-hyperswitch
+switch
 i1profiler
 ibackup-viewer
 ibettercharge
