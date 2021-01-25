@@ -4,13 +4,13 @@ import re
 #from caskslist2 import b
 #from caskslist3 import c
 #from caskslist4 import d
-from caskslist5 import e
-#from caskslist6 import f
+#from caskslist5 import e
+from caskslist6 import f
 #from caskslist7 import g
 
-#1 2 3 4 done 25/01/21
+#1 2 3 4 5 done 26/01/21
 
-b=e
+b=f
 
 b=b.replace("\n","\t").replace(" ","\t").split("\t")
 c=[]
