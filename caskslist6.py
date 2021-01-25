@@ -44,7 +44,6 @@ rambox
 ramme
 ransomwhere
 rapidminer-studio
-rapidweaver
 rar
 raspberry-pi-imager
 raven
@@ -96,7 +95,6 @@ removebg
 renamer
 renpy
 repetier-host
-repoz
 rescuetime
 residualvm
 resilio-sync
@@ -128,7 +126,6 @@ ringtones
 ripcord
 ripit
 ripme
-river-sparkle
 roaringapps
 robo-3t
 robofont
@@ -170,12 +167,9 @@ sabnzbd
 safeincloud-password-manager
 sage
 sameboy
-santa
 saoimageds9
-sapmachine-jdk
 satellite-eyes
 sauce-connect
-sauerbraten
 save-hollywood
 scala-ide
 scansion
@@ -185,7 +179,6 @@ scenebuilder
 schism-tracker
 scidavis
 scidvsmac
-scihubeva
 scilab
 scout
 scrapp
@@ -284,7 +277,6 @@ sidestep
 sigdigger
 sigil
 sigilium-email-signatures
-signal
 sigviewer
 silentknight
 silicon
@@ -399,8 +391,6 @@ spaceradar
 spamsieve
 spark
 spark-ar-studio
-sparkle
-sparkleshare
 spatial
 spatterlight
 spechtlite
@@ -421,7 +411,6 @@ splashtop-personal
 splashtop-streamer
 splayer
 splice
-splitshow
 spotifree
 spotify
 spotify-now-playing
@@ -447,8 +436,6 @@ squadanimatorrugby
 squadanimatorsoccer
 squeak
 squidman
-squirrel
-squirrelsql
 srware-iron
 ssh-config-editor
 ssh-tunnel-manager
@@ -477,7 +464,6 @@ steermouse
 stella
 stellarium
 stems
-stepmania
 steveschow-gfxcardstatus
 stoplight-studio
 storyboarder
@@ -555,7 +541,6 @@ syncroom
 syncsettings
 syncterm
 syncthing
-synergy
 synfigstudio
 synology-chat
 synology-note-station-client
