@@ -8,10 +8,8 @@ activedock
 activitywatch
 adguard
 adium
-adoptopenjdk
 advancedrestclient
 adventure
-aegisub
 aerial
 aether
 agenda
@@ -32,7 +30,6 @@ airunlock
 airy
 aja-system-test
 ajour
-alacritty
 aladin
 aleph-one
 alfaview
@@ -43,7 +40,6 @@ aliworkbench
 all-in-one-messenger
 alloy
 alt-c
-alt-tab
 altair-graphql-client
 altdeploy
 alternote
@@ -64,7 +60,6 @@ android-messages
 android-ndk
 androidtool
 angry-ip-scanner
-anki
 anonym
 another-redis-desktop-manager
 ansible-dk
@@ -76,7 +71,6 @@ anylist
 anzeigenchef
 ao
 apache-couchdb
-apache-directory-studio
 apk-icon-editor
 app-cleaner
 appcleaner
@@ -118,7 +112,6 @@ astah-professional
 astro-command-center
 astropad
 astropad-studio
-atemosc
 atext
 atlantis
 atlauncher
@@ -157,10 +150,7 @@ awips-python
 aws-vault
 aws-vpn-client
 axe-edit-iii
-axe-electrum
 axure-rp
-azure-data-studio
-background-music
 backlog
 backuploupe
 balance-lock
@@ -210,7 +200,6 @@ bino
 biopassfido
 birdfont
 biscuit
-bisq
 bit-slicer
 bitbar
 bitcoin-core
@@ -228,7 +217,6 @@ blisk
 blitz
 blobby-volley2
 blockblock
-blockstack
 blocs
 bloodhound
 bloomrpc
@@ -249,7 +237,6 @@ bookmacster
 boonzi
 boop
 boost-note
-boostnote
 bootchamp
 bootstrap-studio
 bootxchanger
@@ -291,7 +278,6 @@ butt
 butter
 buttercup
 bwana
-bzflag
 c0re100-qbittorrent
 cabal
 cacher
@@ -311,7 +297,6 @@ ccmenu
 cctalk
 cd-to
 cellery
-cellprofiler
 cemu
 cerebro
 cernbox

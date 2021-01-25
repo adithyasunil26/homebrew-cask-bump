@@ -74,7 +74,6 @@ one-switch
 onedrive
 onenote-importer-preview
 onepile
-oni
 onionshare
 onlyoffice
 onyx
@@ -129,7 +128,6 @@ osquery
 oss-browser
 osxfuse
 otter-browser
-otx
 outguess
 outline
 outline-manager

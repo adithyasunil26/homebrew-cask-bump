@@ -18,7 +18,6 @@ taskpaper
 taskwarrior-pomodoro
 tastyworks
 tau
-tbe
 tbs-studio
 tcl
 td-agent
@@ -278,9 +277,7 @@ usb-overdrive
 use-engine
 usenapp
 utc-menu-clock
-utm
 utools
-utox
 uu-booster
 uxprotect
 v2rayu
@@ -522,7 +519,6 @@ yemuzip
 yep
 yggdrasil
 yinxiangbiji
-yo
 yoda
 yojimbo
 youdaodict
