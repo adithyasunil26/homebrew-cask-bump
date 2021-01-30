@@ -1,17 +1,15 @@
 import os
 import re 
 
-from caskslist1 import a
-#from caskslist2 import b
-#from caskslist3 import c
+#from caskslist1 import a
 #from caskslist4 import d
-#from caskslist5 import e
+from caskslist5 import e
 #from caskslist6 import f
 #from caskslist7 import g
 
-#1 2 3 4 5 6 7 done 28/01/21
+#1 3 done 31/01/21
 
-b=a
+b=e
 
 b=b.replace("\n","\t").replace(" ","\t").split("\t")
 c=[]
