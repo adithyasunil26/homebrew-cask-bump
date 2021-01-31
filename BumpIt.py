@@ -3,7 +3,7 @@ import re
 import sys
 from datetime import date
 
-from caskslist import a
+from casklist import a
 
 logfilename=str(date.today())
 
