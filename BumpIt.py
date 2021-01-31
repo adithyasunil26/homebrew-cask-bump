@@ -1,0 +1,30 @@
+import os
+import re 
+import sys
+from datetime import date
+
+from caskslist import a
+
+logfilename=str(date.today())
+
+a=a.replace("\n","\t").replace(" ","\t").split("\t")
+for k in a:
+    if k!='':
+      os.system("brew livecheck {} >> {}".format(k,logfilename))
+
+with open(logfilename, 'r') as file:
+  op = file.read().split('\n')
+
+for i in op:
+  if i!='':
+    l=i.split(": ")
+    if l[0]!='':
+      if l[1] not in ['unversioned','latest','discontinued','deprecated','versioned','disabled']:
+        if l[0] not in ['Error','Warning','git','fatal']:
+          name=l[0]
+          m=l[1].split(' ==> ')[0]
+          n=l[1].split(' ==> ')[1]
+          if m!=n:
+            command="brew bump-cask-pr --version={} {}".format(n,name)
+            print(command)
+            #os.system(command)
