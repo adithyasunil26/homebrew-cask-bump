@@ -1,0 +1,786 @@
+quickboot : 1.1-92 ==> 1.1-92
+quicken : 6.0.3,600.37136.100 ==> 6.1.0,601.37882.100
+quickgeojson : 1.1 ==> 1.1
+quickhue : unversioned
+quickjson : 1.0.0 ==> 1.0.0
+quickkeyextension : unversioned
+quicklook-csv : 1.3 ==> 1.3
+quicklook-json : latest
+quicklook-pat : 1.0.0 ==> 1.0.0
+quicklook-pfm : 1.1 ==> 1.1
+quicklookapk : latest
+quicklookase : 1.0 ==> 1.0
+quicknfo : 1.2 ==> 1.2
+quicksilver : 1.6.1 ==> 1.6.1
+quicksync : 4.2.5 ==> 4.2.5
+quickwords : 0.1.2 ==> 0.1.2
+quiterss : 0.19.4 ==> 0.19.4
+quitter : 1.0,107 ==> 1.0,107
+quodlibet : 4.3.0 ==> 4.3.0
+qutebrowser : 2.0.1 ==> 2.0.1
+qv2ray : 2.6.3 ==> 2.6.3
+qview : 4.0 ==> 4.0
+qxmledit : 0.9.16 ==> 0.9.16
+r : 4.0.3 ==> 4.0.3
+r-name : unversioned
+rabbitmq : 3.8.11 ==> 3.8.11
+race-into-space : 1.1.0.286 ==> 1.1
+minimal-racket : 7.9 ==> 7.9
+radarr : 3.0.1.4259 ==> 3.0.1.4259
+radiant-player : 1.12.0 ==> 1.12.0
+radicle-upstream : 0.1.8 ==> 0.1.9
+radio-silence : 2.3 ==> 2.3
+raiderio : 2.0.2 ==> 2.0.2
+raindropio : unversioned
+rambox : 0.7.7 ==> 0.7.7
+ramme : discontinued
+ransomwhere : 1.2.5 ==> 1.2.5
+rapidminer-studio : unversioned
+rar : 6.0.0 ==> 6.0.0
+raspberry-pi-imager : 1.5 ==> 1.5
+raven : 0.2.0-alpha ==> 0.2.0
+rawtherapee : 5.8 ==> 5.8
+raycast : unversioned
+raze : 0.8.1 ==> 0.8.1
+rclone-browser : discontinued
+rcloneosx : 2.2.5 ==> 2.2.5
+rcse : 1.9.3 ==> 1.9.3
+react-native-debugger : 0.11.7 ==> 0.11.7
+react-proto : 1.0.0 ==> 1.0.0
+reactotron : 2.17.1 ==> 2.17.1
+recaf : 2.17.4 ==> 2.17.4
+receiptquicklook : 1.4 ==> 1.4
+receipts : 1.9.10-360 ==> 1.9.10-360
+recents : unversioned
+recordit : unversioned
+recovery-disk-assistant : unversioned
+rectangle : 0.42,47 ==> 0.42,47
+red-eye : unversioned
+redeclipse : 2.0.0 ==> 2.0.0
+redis : 6.0.10 ==> 6.0.10
+redisinsight : 1.9.0 ==> 1.9.0
+refined-github-safari : 2.1.25 ==> 2.1.26
+reflector : 3.2.1,3210 ==> 3.2.1,3210
+regexhibit : unversioned
+reggy : 1.3 ==> 1.3
+reikey : 1.4.1 ==> 1.4.2
+rember : unversioned
+remote-buddy : unversioned
+remote-desktop-manager : 2020.3.4.0 ==> 2020.3.4.0
+remote-desktop-manager-free : 2020.3.4.0 ==> 2020.3.4.0
+remote-wake-up : 1.4,33b ==> 1.4,33b
+rescuetime : unversioned
+residualvm : 0.3.1 ==> 0.3.1
+responsively : 0.15.0 ==> 0.15.0
+resxtreme : unversioned
+retroactive : 1.9 ==> 1.9
+retrobatch : 1.4.3,946 ==> 1.4.3,946
+reveal : 26,13630 ==> 26,13630
+revisions : 3.0.1 ==> 3.0.1
+rhinoceros : 6.33.20343.16432 ==> 6.33.20343.16432
+ricochet : 1.1.4.1 ==> 1.1.4.1
+rightfont : 5.9.0,2817 ==> 5.9.0,2817
+ringcentral : unversioned
+ringcentral-meetings : latest
+ringcentral-phone : 20.4.0 ==> 20.4.0
+ripme : 1.7.94 ==> 1.7.94
+roaringapps : 1.5.0 ==> 1.5.0
+robo-3t : 1.4.2,8650949 ==> 1.4.2,8650949
+robofont : unversioned
+rocket : 1.8.2,79 ==> 1.8.2,79
+rocket-chat : 3.1.1 ==> 3.1.1
+rocket-typist : 2.3,150b ==> 2.3,150b
+rodeo : 2.5.2 ==> 2.5.2
+roku-remote-tool : unversioned
+rolisteam : 1.9.3 ==> 1.9.3
+roon : unversioned
+rosaimagewriter : 2.6.2 ==> 2.6.2
+rotki : 1.12.2 ==> 1.13.0
+routebuddy : 4.2.1 ==> 4.2.1
+rowanj-gitx : 0.15,1964 ==> 0.15,1964
+rpvoip : unversioned
+rq : 1.0.2 ==> 1.0.2
+rrcc : 0.8.8 ==> 0.8.8
+rss : unversioned
+rssowl : 2.2.1 ==> 2.2.1
+rstudio : 1.4.1103 ==> 1.4.1103
+rsyncosx : 6.5.6 ==> 6.5.6
+rubitrack-pro : 5.3.3,3200 ==> 5.3.3,3200
+rubymotion : latest
+runescape : unversioned
+runjs : 1.12.2 ==> 1.12.2
+ryver : 1.3.2 ==> 1.3.2
+sabaki : 0.51.1 ==> 0.51.1
+sabnzbd : 3.1.1 ==> 3.1.1
+safeincloud-password-manager : unversioned
+sameboy : 0.13.6 ==> 0.13.6
+satellite-eyes : 1.5.0,1153 ==> 1.5.0,1153
+sauce-connect : 4.6.3 ==> 4.6.3
+save-hollywood : 2.5 ==> 2.5
+scap-workbench : 1.2.1 ==> 1.2.1
+scapple : 1.4,1122 ==> 1.4,1122
+schism-tracker : 20200412 ==> 20200412
+scidavis : 1.26 ==> 2.3
+scidvsmac : 4.21 ==> 4.21-1
+scilab : 6.1.0 ==> 6.1.0
+scout : 2.18.16 ==> 2.18.16
+scrapp : 1.6 ==> 1.6
+scratch : 3.18.1 ==> 3.18.1
+screaming-frog-seo-spider : 14.1 ==> 14.1
+screen : 4.8.0 ==> 4.8.0
+screencast : 0.0.6 ==> 0.0.6
+screenflow : 9.0.7,31680 ==> 9.0.7,31680
+screenfocus : 1.0.1 ==> 1.0.1
+screens : 4.8.4,1609790953 ==> 4.8.4,1609790953
+screens-connect : 4.9.9,21613 ==> 4.9.9,21613
+scribus : 1.5.6.1 ==> 1.5.7
+scriptql : latest
+scrivener : 3.2.2,14632 ==> 3.2.2,14632
+scroll-reverser : 1.8,10433 ==> 1.8,10433
+scrutiny : unversioned
+scummvm : 2.2.0 ==> 2.2.0
+sdrdx : latest
+seadrive : 2.0.10 ==> 2.0.12
+seafile-client : 8.0.0 ==> 8.0.0
+seaglass : 0.0.525-f5a1376 ==> 0.0.525-f5a1376
+seashore : 2.5.10 ==> 2.5.10
+secretive : 2.1.0 ==> 2.1.0
+security-growler : 2.3 ==> 2.3
+securityspy : unversioned
+sekey : 0.1 ==> 0.1
+selfcontrol : 3.0.3 ==> 3.0.3
+semulov : 2.4.1 ==> 2.4.1
+send-anywhere : unversioned
+send-to-kindle : unversioned
+sensei : unversioned
+sensiblesidebuttons : 1.0.6 ==> 1.0.6
+senuti : discontinued
+sequel-ace : 3.1.1,3016 ==> 3.2.0-3017
+sequel-pro : 1.1.2 ==> 1.1.2
+sequential : 2.1.2 ==> 2.1.2
+serial-tools : unversioned
+serviio : 2.1 ==> 2.1
+servo : unversioned
+servpane : 0.1.1 ==> 0.1.1
+session : 1.4.7 ==> 1.4.7
+sessionrestore : 2.5 ==> 2.5.1
+shades : latest
+shadow : unversioned
+shadowsocksx : 2.6.3 ==> 2.6.3
+shadowsocksx-ng : 1.9.4 ==> 1.9.4
+shadowsocksx-ng-r : 1.4.4-r8 ==> 1.4.4-r8-resigning
+sharemouse : unversioned
+sharepod : 4.3.2 ==> 4.3.2
+shellhere : unversioned
+sherlock : unversioned
+shiba : 1.2.1 ==> 1.2.1
+shiftit : discontinued
+shifty : 1.1.2 ==> 1.1.2
+shimeike-formulatepro : 0.0.6 ==> 0.0.6
+shiori : 1.1.0 ==> 1.1.0
+shoes : 3.3.7 ==> 3.3.7
+shortcat : 0.7.11,91 ==> 0.7.11,91
+shortcutdetective : unversioned
+shortcuts : 1.0.1 ==> 1.0.1
+shotcut : 20.11.28 ==> 21.01.29
+showhiddenfiles : unversioned
+showyedge : 4.0.0 ==> 4.0.0
+shrinkit : 1.3.2 ==> 1.3.2
+shuttle : 1.2.9 ==> 1.2.9
+sidequest : 0.10.18 ==> 0.10.18
+sidestep : 1.4.1 ==> 1.4.1
+sigdigger : 0.1.0 ==> 0.1.0
+sigil : 1.4.3 ==> 1.4.3
+sigilium-email-signatures : unversioned
+sigviewer : 0.6.4 ==> 0.6.4
+silentknight : 1.15,2020.11 ==> 1.15,2020.11
+silicon : 0.4.0 ==> 0.4.0
+silicon-info : 1.0.3 ==> 1.0.3
+sim-genie : 2020.5,244 ==> 2020.5,244
+simple-comic : 1.7_252 ==> 1.7_252
+simplefloatingclock : unversioned
+simplenote : 2.5.0 ==> 2.5.0
+simplesynth : 1.1 ==> 1.1
+simplistic : latest
+simsim : 1.4.4 ==> 1.4.4
+sip : 4.19.24 ==> 4.19.24
+sirimote : 1.3.9,27 ==> 1.3.9,27
+sitebulb : 4.6.2 ==> 4.6.2
+sixtyforce : unversioned
+sizzy : 48.1.0 ==> 48.1.0
+sketch : 70.3,109109 ==> 70.3,109109
+sketch-toolbox : 0.5.1,051 ==> 0.5.1,051
+sketchbook : 8.7.1 ==> 8.7.1
+sketchpacks : latest
+skim : 1.6,130 ==> 1.6,130
+skitch : 2.9,265157 ==> 2.9,265157
+skreenics : discontinued
+sky-ticket : unversioned
+skybox : 0.2.2 ==> 0.2.2
+skyfonts : 5.9.5.7 ==> 5.9.5.7
+skype : 8.68.0.96 ==> 8.67.0.96
+slack : 4.12.2 ==> 4.12.2
+slate : 1.0.25 ==> 1.0.25
+sleipnir : 4.6.6,4.6.6004 ==> 4.6.6,4.6.6004
+slicer : 4.11.20200930,1340262 ==> 4.11.20200930,1340262
+slik : 2.1.1,5023 ==> 2.1.1,5023
+slimbatterymonitor : 1.5 ==> 1.5
+slimhud : 1.3.7 ==> 1.3.7
+slingplayer : 5.0.92 ==> 5.0.92
+slite : 1.2.4 ==> 1.2.4
+sloth : 3.0.1,256 ==> 3.0.1,256
+smallpdf : unversioned
+smcfancontrol : 2.6 ==> 2.6
+smlnj : 110.99 ==> 110.99
+smoothscroll : 1.5.0,10500.1 ==> 1.5.0,10500.1
+smooze : 1.9.12,462 ==> 1.9.14,474
+snagit : unversioned
+snapmotion : 4.5.0,6036 ==> 4.5.0,6036
+snappy : 1.1.8 ==> 1.1.8
+sneek : unversioned
+snip : 2.0,5771 ==> 2.0,5771
+snipaste : 2.5.6-Beta ==> 2.5.6-Beta
+snwe : 0.1.0 ==> 0.1.0
+socket-io-tester : 1.2.3 ==> 1.2.3
+sococo : unversioned
+soduto : 1.0.1 ==> 1.0.1
+sofa-server : 1.3.4,2020.0327.100116 ==> 1.3.4,2020.0327.100116
+softraid : 5.8.4 ==> 5.8.4
+solar2d : 2020.3624 ==> 3636
+solvespace : 2.3 ==> 2.3
+sonarr : unversioned
+sonarr-menu : 3.3 ==> 3.3
+sonic-pi : 3.3.0 ==> 3.3.0
+soqlxplorer : 3.4 ==> 3.4
+soulseek : 2018-11-16 ==> 2018-11-16
+soulver : 3.4.14,181 ==> 3.4.14,181
+soundboosterlite : latest
+soundcleod : 2.0.0 ==> 2.0.0
+soundflower : 2.0b2 ==> 2.0b2
+soundflowerbed : 2.0.0 ==> 2.0.0
+soundsource : unversioned
+sourcenote : 1.2.3 ==> 1.2.3
+sourcetrail : 2020.4.35 ==> 2020.4.35
+sourcetree : 4.0.2,236 ==> 4.0.2,236
+space-saver : 0.5 ==> 0.5
+spacelauncher : 1.5,88 ==> 1.5,88
+spaceman : 0.94 ==> 0.94
+spaceradar : 5.1.0 ==> 5.1.0
+spamsieve : 2.9.42 ==> 2.9.42
+spark : 1.0.1 ==> 1.0.1
+spark-ar-studio : 105 ==> 105
+spatial : latest
+spatterlight : 0.5.5 ==> 0.7.4
+spechtlite : 0.10.7 ==> 0.10.7
+spectacle : 1.2,672 ==> 1.2,672
+spectacle-editor : 0.1.6 ==> 0.1.6
+spectrum : 1.0.5 ==> 3.1.16
+spectx : 1.4.68 ==> 1.4.68
+speedcrunch : 0.12 ==> 0.12
+speedify : unversioned
+spek : 0.8.3 ==> 0.8.3
+spideroak-share : unversioned
+spideroakone : unversioned
+spillo : 2.0,158 ==> 2.0,158
+spires : 2.0.4 ==> 2.0.4
+spitfire-audio : 3.2.17,1605696000 ==> 3.2.17,1605696000
+splayer : 4.9.4 ==> 4.9.4
+splice : unversioned
+spotifree : 1.6.5 ==> 1.6.5
+spotify : unversioned
+spotify-now-playing : 0.7.0 ==> 0.7.0
+spotmenu : 1.9 ==> 1.9
+spotspot : 4.0.2 ==> 4.0.2
+springtoolsuite : 4.9.0,4.18.0 ==> 4.9.0,4.18.0
+spyder : 4.2.1 ==> 4.2.1
+sql-tabs : 1.1.0 ==> 1.1.0
+sqlectron : 1.33.0 ==> 1.33.0
+sqleditor : 3.7.4,10817 ==> 3.7.4,10817
+sqlexplorer : 3.6.1 ==> 3.7.0
+sqlitemanager : unversioned
+sqlitestudio : 3.2.1 ==> 3.2.1
+sqlpro-for-mssql : 2020.104 ==> 2020.104
+sqlpro-for-mysql : 2020.101 ==> 2020.101
+sqlpro-for-postgres : 2020.96 ==> 2020.96
+sqlpro-for-sqlite : 2020.104 ==> 2020.104
+sqlpro-studio : 2020.104 ==> 2020.104
+srware-iron : unversioned
+ssh-config-editor : 2.1.2,73 ==> 2.1.2,73
+ssokit : 1.1.0 ==> 1.1.0
+haskell-stack : 2.5.1 ==> 2.5.1
+stack-exchange-notifier : 1.1 ==> 1.1
+stageplotpro : 2.9.9.2 ==> 2.9.9.2
+standard-notes : 3.5.18 ==> 3.5.18
+starcraft : latest
+starleaf : unversioned
+starsector : 0.9.1a-RC8 ==> 0.9.1a-RC8
+startninja : unversioned
+stashcat : unversioned
+stats : 2.4.14 ==> 2.4.14
+statusfy : 1.4.0 ==> 1.4.0
+stay : 1.3,518 ==> 1.3,518
+steam : 2020-12-21 ==> 2020-12-21
+steamcmd : latest
+steermouse : 5.5.4 ==> 5.5.4
+stella : 6.5.1 ==> 6.5.1
+stellarium : 0.20.4 ==> 0.20.4
+steveschow-gfxcardstatus : 2.4.4i ==> 2.4.4i
+stoplight-studio : 2.2.0,5343.git-ab43444 ==> 2.2.0,5379.git-75c5189
+storyboarder : 2.1.0 ==> 2.1.0
+strange-flesh : unversioned
+strawberry : 0.8.5 ==> 0.8.5
+strawberry-wallpaper : unversioned
+streamlink-twitch-gui : 1.11.0 ==> 1.11.0
+stremio : 4.4.120 ==> 4.4.120
+stretchly : 1.4.0 ==> 1.4.0
+stringsfile : latest
+stringz : 0.6.4 ==> 0.6.4
+strongvpn : 2.2.2,45556 ==> 2.2.2,45556
+stubbymanager : 0.2.6,6782984 ==> 0.2.6,6782984
+subethaedit : 5.1.7,9730 ==> 5.1.7,9730
+subler : 1.6.10 ==> 1.6.10
+sublercli : 1.5.1 ==> 1.5.1
+subnetcalc : 2.4.17 ==> 2.4.17
+subsurface : 4.9.10 ==> 4.9.10
+subsync : 0.16.0 ==> 0.16
+subtitle-master : 2.0.1 ==> 2.0.1
+subtitles : 3.2.15 ==> 3.2.15
+superbeam : unversioned
+supercollider : 3.11.2 ==> 3.11.2
+superduper : unversioned
+superhuman : unversioned
+superproductivity : 6.3.3 ==> 6.3.3
+superslicer : 2.2.53.4,20201111 ==> 2.2.53.4,20201111
+supersync : 7.0.9 ==> 7.0.9
+supertuxkart : 1.2 ==> 1.2
+surfeasy-vpn : unversioned
+surfshark : unversioned
+surge-synthesizer : 1.8.1 ==> 1.8.1
+suspicious-package : 3.6,736 ==> 3.6,736
+svgcleaner : 0.9.5 ==> 0.9.5
+svnx : 2.0 ==> 2.0
+sweet-home3d : 6.4.2 ==> 6.4.2
+swift : 5.2.5 ==> 5.3.3
+swift-publisher : 5.5.7,4595 ==> 5.5.7,4595
+swiftdefaultappsprefpane : 2.0.1 ==> 2.0.1
+swiftformat-for-xcode : 0.47.11 ==> 0.47.11
+swifty : 0.6.3 ==> 0.6.4
+swiftybeaver : 1.1.0,1100 ==> 1.1.0,1100
+swimat : 1.7.0 ==> 1.7.0
+swinsian : 2.3.2,520 ==> 2.3.2,520
+swish : 1.7.1,44 ==> 1.7.1,44
+switch : unversioned
+switchhosts : 3.5.6.5551 ==> 3.5.6.5551
+switchkey : 1.1.3 ==> 1.1.3
+symboliclinker : 2.2 ==> 2.2
+synalyze-it-pro : 1.23.4 ==> 1.23.4
+sync : unversioned
+sync-my-l2p : 2.4.1 ==> 2.4.2
+syncalicious : 0.0.6 ==> 0.0.6
+syncmate : 8.1.475 ==> 8.1.475
+syncovery : 9.26e ==> 9.29d
+syncplay : 1.6.7 ==> 1.6.7
+syncroom : 1.0.3 ==> 1.0.3
+syncsettings : 1.2.4,6008 ==> 1.2.4,6008
+syncterm : 1.1 ==> 1.1
+syncthing : 1.12.1 ==> 1.12.1
+synfigstudio : 1.4.0,20201114 ==> 1.4.0,20201114
+syntax-highlight : 1.0.b31 ==> 1.0.b31
+sysdig-inspect : 0.5.0 ==> 0.5.0
+sysex-librarian : 1.4.1 ==> 1.4.1
+table-tool : 1.2.1 ==> 1.2.1
+tableau : 2020.4.1 ==> 2020.4.1
+tableau-prep : 2021.1.1 ==> 2021.1.1
+tableau-public : 2020.4.1 ==> 2020.4.1
+tableau-reader : 2020.4.1 ==> 2020.4.1
+tableflip : 1.3.1,61 ==> 1.3.1,61
+tabula : 1.2.1 ==> 1.2.1
+tad : 0.9.0 ==> 0.9.0
+tag : 0.10 ==> 0.10
+tagger : 1.8.0.7 ==> 1.8.0.7
+tales-of-majeyal : 1.7.2 ==> 1.7.2
+tap-forms : 5.3.17 ==> 5.3.17
+taskade : 3.3.0 ==> 3.3.0
+taskexplorer : 2.0.2 ==> 2.0.2
+taskwarrior-pomodoro : 1.8.0 ==> 1.8.0
+tau : latest
+teacode : 1.0.1,31 ==> 1.0.1,31
+teambition : unversioned
+teamviewer : unversioned
+teamviewer-quickjoin : unversioned
+teamviewermeeting : 15.14.2 ==> 15.14.2
+techsmith-capture : 1.3.29,196 ==> 1.3.29,196
+teensy : unversioned
+teeworlds : 0.7.5 ==> 0.7.5
+telavox-flow : 1.112.1 ==> 1.112.1
+telegram : 7.4,212543 ==> 7.4,212543
+telegram-desktop : 2.5.8 ==> 2.5.8
+tenable-nessus-agent : 8.2.2,12161 ==> 8.2.2,12161
+tencent-docs : unversioned
+tenor : 2.0.5,21 ==> 2.0.5,21
+termhere : 1.2.1 ==> 1.2.1
+terminology : latest
+terminus : 1.0.130 ==> 1.0.130
+termius : 1.2.15 ==> 1.2.15
+tetrio : unversioned
+texmacs : 1.99.18 ==> 1.99.18
+texpad : 1.8.19,550:b20304d ==> 1.8.19,550:b20304d
+texshop : 4.58 ==> 4.58
+texstudio : 3.0.4 ==> 3.0.4
+textadept : 11.0 ==> 11.0
+textbar : 3.2.182 ==> 3.2.182
+textexpander : 6.8.1,681.3 ==> 6.8.1,681.3
+textmate : 2.0.6 ==> 2.0.6
+texts : 1.5 ==> 1.5
+textual : 7.1.6,200409.17:8cdeb222c ==> 7.1.6,200409.17:8cdeb222c
+texturepacker : 5.5.0 ==> 5.5.0
+texworks : 0.6.5,202003251937:649699a ==> 0.6.5,202003251937:649699a
+tg-pro : 2.55,11191 ==> 2.55,11191
+the-archive-browser : 1.11.2,111:1504018288 ==> 1.11.2,111:1504018288
+the-battle-for-wesnoth : 1.14.15 ==> 1.14.15
+the-cheat : 1.2.5 ==> 1.2.5
+the-clock : 4.5.1,20210115 ==> 4.5.1,20210115
+the-tagger : 1.6.2 ==> 1.6.2
+the-unarchiver : 4.2.4,131:1605625663 ==> 4.2.4,131:1605625663
+thebrain : 11.0.132.0 ==> 11.0.132.0
+there : 1.8.10 ==> 1.8.10
+thingsmacsandboxhelper : 3.26 ==> 3.26
+thinkorswim : latest
+thonny : 3.3.3 ==> 3.3.3
+thonny-xxl : 3.3.3 ==> 3.3.3
+thor : 1.5.6 ==> 1.5.6
+thumbsup : 4.5.3 ==> 4.5.3
+thyme : 0.5.1 ==> 0.5.1
+tickeys : 0.5.0 ==> 0.5.0
+ticktick : 3.7.60,168 ==> 3.7.60,168
+tidal : unversioned
+tiddly : 0.0.14 ==> 0.0.14
+tifig : 0.8.0-201712302054 ==> 0.8.0-201712302054
+tigerjython : latest
+tigervnc-viewer : 1.11.0 ==> 1.11.0
+tikzit : 2.1.6 ==> 2.1.6
+tiled : 1.4.3 ==> 1.4.3
+timche-gmail-desktop : 2.20.4 ==> 2.20.4
+time-lapse-assembler : unversioned
+time-to-leave : 1.5.5 ==> 1.5.5
+time-tracker : 1.3.13 ==> 1.3.13
+timecamp : 1.7.1.6 ==> 1.7.1.6
+timelane : 2.0 ==> 2.0
+timely : 1.1.0 ==> 1.1.0
+timemachineeditor : unversioned
+timemator : 2.7.4,115 ==> 2.7.4,115
+timer : unversioned
+timestamp : 1.0.1 ==> 1.0.1
+timing : 2021.2,277 ==> 2021.2,277
+tinkerwell : 2.11.0 ==> 2.11.0
+tiny-player : 1.2.13,148 ==> 1.2.13,148
+tinypng4mac : 1.0.4 ==> 1.0.4
+tip : 2.0.0 ==> 2.0.0
+tlv : 1.2 ==> 1.2
+tmnotifier : 1.0.7,31 ==> 1.0.7,31
+tn3270-x : 3.4.0 ==> 3.4.0
+tnefs-enough : 3.8 ==> 3.8
+today-scripts : 1.1 ==> 1.1
+todometer : 2.0.1 ==> 2.0.1
+todos : 1.5 ==> 1.5
+todotxt : 2.4.0 ==> 2.4.0
+tofu : unversioned
+toggl-track : 7.5.441 ==> 7.5.441
+toinane-colorpicker : 2.0.3 ==> 2.0.3
+tomighty : 1.2 ==> 1.2
+tonido : latest
+toolreleases : 1.3.7,38 ==> 1.3.7,38
+toontown-rewritten : 1.2.5 ==> 1.2.5
+topcat : unversioned
+torrent-file-editor : 0.3.17 ==> 0.3.17
+touch-bar-pong : unversioned
+touch-bar-simulator : 4.2.0 ==> 4.2.0
+touchbarserver : 1.6 ==> 1.6
+touchdesigner : 2020.28110 ==> 2020.28110
+touchosc-bridge : 1.6.0 ==> 1.6.0
+touchosc-editor : 1.8.9 ==> 1.8.9
+touchswitcher : 1.4.1,135 ==> 1.4.1,135
+townwifi : 1.0.4,21 ==> 1.0.4,21
+trader-workstation : unversioned
+tradingview : 1.0.0-beta.1 ==> 1.0.0-beta.1
+trailer : 1.7.4 ==> 1.7.4
+tranquility : 1.1.2 ==> 1.1.2
+transcribe : unversioned
+transmission-cli : 3.00 ==> 3.00
+transmission-remote-gui : 5.18.0 ==> 5.18.0
+transnomino : 5.3.2 ==> 5.3.2
+transocks : 3.0.8,871 ==> 3.0.8,871
+trash-it : unversioned
+trayplay : 1.0.3,48 ==> 1.0.3,48
+treesheets : unversioned
+tresorit : unversioned
+tribler : 7.7.1 ==> 7.7.1
+trilium-notes : 0.45.8 ==> 0.45.8
+trinity : 1.6.1 ==> 1.6.1
+tripmode : 3.0.0,1023 ==> 3.0.0,1023
+trojanx : 0.4 ==> 0.4
+trolcommander : 0.9.9 ==> 0.9.9
+ttscoff-mmd-quicklook : 1.2 ==> 1.2
+tuneskit-m4v-converter : unversioned
+tunnelblick : 3.8.4a,5601 ==> 3.8.4a,5601
+turbo-boost-switcher : 2.10.2 ==> 2.10.2
+turbovnc-viewer : 2.2.5 ==> 2.2.5
+turtl : 0.7.2.6-sqlite-fix ==> 0.7.2.6-sqlite-fix
+tusk : 0.23.0 ==> 0.23.0
+tutanota : unversioned
+tuxera-ntfs : 2020.1 ==> 2020.1
+tuxguitar : 1.5.4 ==> 1.5.4
+tweet-tray : 1.1.5 ==> 1.1.5
+twilioquest : unversioned
+twine : 2.3.12 ==> 2.3.12
+twist : 0.2.3,7025 ==> 0.2.3,7025
+twitch : unversioned
+twitterrific : 5.4.5,151 ==> 5.4.5,151
+twonkyserver : 8.5.1 ==> 8.5.1
+tyke : unversioned
+tyme : unversioned
+typeface : 2.7.0,2023 ==> 2.7.0,2023
+typora : 0.9.9.36.2,4901 ==> 0.9.9.36.2,4901
+tysimulator : 0.10.0 ==> 0.10.0
+ubar : 4.1.6,416 ==> 4.1.6,416
+ubersicht : 1.6.69 ==> 1.6.69
+uc-one : unversioned
+udeler : 1.8.2 ==> 1.8.2
+udig : 2.0.0 ==> 2.0.0
+ueli : 8.10.0 ==> 8.10.0
+ukelele : 3.5.0,339 ==> 3.5.0,339
+ukrainian-unicode-layout : 1.0.0 ==> 1.0.0
+ultdata : unversioned
+ultimate : unversioned
+unclack : unversioned
+unclutter : unversioned
+uncolored : 0.10.2 ==> 0.10.2
+uncrustifyx : 0.4.3 ==> 0.4.3
+unetbootin : 700 ==> 700
+unicodechecker : 1.22,776 ==> 1.22,776
+unified-remote : unversioned
+uninstallpkg : 1.1.9,1405 ==> 1.1.9,1405
+unison : 2.51.3 ==> 2.51.3
+unity-hub : unversioned
+unity-web-player : discontinued
+universal-media-server : 10.0.0 ==> 10.0.1
+unlox : unversioned
+unnaturalscrollwheels : 1.2.0 ==> 1.2.0
+unshaky : 0.7.0 ==> 0.7.0
+upic : 0.21.1 ==> 0.21.1
+upm : 1.15.1 ==> 1.15.1
+upterm : 0.4.4 ==> 0.4.4
+upwork : 5.4.9.6,2565cdd0547940a2 ==> 5.4.9.6,2565cdd0547940a2
+usenapp : 0.98,292 ==> 0.99,298
+uxprotect : 1.1.1 ==> 1.1.1
+v2rayu : 2.3.1 ==> 2.3.1
+v2rayx : 1.5.1 ==> 1.5.1
+vagrant : 2.2.14 ==> 2.2.14
+vagrant-manager : 2.7.1 ==> 2.7.1
+valentina-studio : unversioned
+valley : 1.0 ==> 1.0
+vallum : 3.3.4 ==> 3.3.4
+vapor : 18.3.0 ==> 18.3.0
+vassal : 3.4.13 ==> 3.4.13
+vb-cable : 107 ==> 107
+vcv-rack : 1.1.6 ==> 1.1.6
+git: 'credential-osxkeychain' is not a git command. See 'git --help'.
+git: 'credential-osxkeychain' is not a git command. See 'git --help'.
+fatal: could not read Username for 'https://github.com': terminal prompts disabled
+git: 'credential-osxkeychain' is not a git command. See 'git --help'.
+git: 'credential-osxkeychain' is not a git command. See 'git --help'.
+fatal: could not read Username for 'https://github.com': terminal prompts disabled
+git: 'credential-osxkeychain' is not a git command. See 'git --help'.
+git: 'credential-osxkeychain' is not a git command. See 'git --help'.
+fatal: could not read Username for 'https://github.com': terminal prompts disabled
+veracrypt : 1.24-Update8 ==> 1.24-Update8
+veusz : 3.3.1 ==> 3.3.1
+via : 1.3.1 ==> 1.3.1
+viber : unversioned
+videostream : unversioned
+vidl : 1.0.2,102000 ==> 1.0.2,102000
+vienna : 3.7.1,7437 ==> 3.7.1,7437
+vimediamanager : 0.7a22 ==> 0.7a22
+vimr : 0.34.0-355 ==> 0.34.0-355
+vin047-abgx360 : 1.0.6 ==> 1.0.6
+vip-access : unversioned
+vipriser : 3.5 ==> 3.5
+virtual-ii : latest
+virtualbox : 6.1.18,142142 ==> 6.1.18,142142
+virtualbox-extension-pack : 6.1.18 ==> 6.1.18
+virtualc64 : 3.4 ==> 3.4
+virtualgl : 2.6.5 ==> 2.6.5
+virtualhere : unversioned
+virtualhereserver : unversioned
+virustotaluploader : 1.3 ==> 1.3
+visicut : 1.9-83-g2dc5fd7f ==> 1.9-83-g2dc5fd7f
+visit : 3.1.4 ==> 3.1.4
+visual : 1.27 ==> 1.27
+visual-paradigm : 16.2,20210101 ==> 16.2,20210101
+visual-paradigm-ce : 16.2,20210101 ==> 16.2,20210101
+visual-studio-code : 1.52.1 ==> 1.52.1
+visualboyadvance-m : 2.1.4 ==> 2.1.4
+visualvm : 2.0.6 ==> 2.0.6
+vitamin-r : 3.23 ==> 3.23
+vivaldi : 3.6.2165.34 ==> 3.6.2165.34
+vk-messenger : unversioned
+vlc : 3.0.12 ==> 3.0.12
+vlcstreamer : 5.25 ==> 5.25
+vnc-server : 6.7.2 ==> 6.7.2
+vnc-viewer : 6.21.118 ==> 6.21.118
+vnote : 2.10 ==> 2.10
+voicemac : unversioned
+voikkospellservice : 1.0.6b1 ==> 1.0.6b1
+volt : 0.3.7 ==> 0.3.7
+voodoopad : 5.3.0,6450 ==> 5.3.0,6450
+voov-meeting : 1.7.1.510,1410000198 ==> 1.7.1.510,1410000198
+vorta : 0.7.1 ==> 0.7.2
+vox : 3.3.19,3399.11:1608574055 ==> 3.3.19,3399.11:1608574055
+vox-preferences-pane : 1.5.14 ==> 1.5.14
+voxql : 0.1.0 ==> 0.1.0
+vpn-enabler : unversioned
+vscodium : 1.52.1 ==> 1.52.1
+vsee : 4.9.4,42602 ==> 4.9.4,42602
+vu : 1.2,6:1523016199 ==> 1.2,6:1523016199
+vuze : latest
+vv : 2.3.0 ==> 2.3.0
+vysor : 4.0.17 ==> 4.0.17
+wacom-inkspace : 2.7.4 ==> 2.7.4
+wail : 0.2019.05.21 ==> 0.2019.05.21
+wakeonlan : 0.41 ==> 0.41
+wallpaper-wizard : 2.2.0 ==> 2.2.0
+wanna : 1.0.0-alpha.2+flex ==> 1.0.0-alpha.2+flex
+warsow : 2.1.2 ==> 2.1.2
+wasabi-wallet : 1.1.12.3 ==> 1.1.12.3
+wavebox : 10.0.407.2 ==> 10.0.407.2
+waves-central : unversioned
+wavtap : 0.3.0 ==> 0.3.0
+weakauras-companion : 3.1.1 ==> 3.1.1
+webarchiveextractor : 0.2 ==> 0.2
+webcamoid : 8.7.1 ==> 8.7.1
+webcatalog : 28.2.0 ==> 28.2.0
+webex : unversioned
+webex-meetings : latest
+webex-wrf-player : T33L ==> T33L
+webots : R2021a ==> R2021a
+webpack-dashboard : 1.0.0 ==> 1.0.0
+webplotdigitizer : 4.4 ==> 4.4
+webpquicklook : latest
+webrecorder-player : 1.8.0 ==> 1.8.0
+website-watchman : unversioned
+webtorrent : 0.24.0 ==> 0.24.0
+webviewscreensaver : 2.1 ==> 2.1
+wechat : unversioned
+wechatwork : 3.1.1.2358 ==> 3.1.1.2358
+weka : 3.8.5 ==> 3.8.5
+welly : 3.1.2 ==> 3.1.2
+wercker : latest
+wercker-cli : latest
+wewechat : 1.1.7 ==> 1.1.7
+wey : 0.3.7 ==> 0.3.7
+whatroute : 2.4.0,11763 ==> 2.4.0,11763
+whatsapp : 2.2102.8 ==> 2.2102.8
+whatsize : 7.6.4,7640 ==> 7.6.4,7640
+whatsyoursign : 2.0.0 ==> 2.0.0
+whichspace : 0.3.2 ==> 0.3.2
+whoozle-android-file-transfer : 4.2 ==> 4.2
+widelands : 21 ==> 21
+wifi-explorer : 3.0.2,40 ==> 3.0.2,40
+wifispoof : 3.5.4 ==> 3.5.4
+winclone : 9.0,48405 ==> 9.0,48405
+windocd : 1.8 ==> 1.8
+window-switch : unversioned
+windows95 : 2.3.0 ==> 2.3.0
+wine-stable : 5.0 ==> 5.0
+wings3d : 2.2.6.1 ==> 2.2.6.1
+wintertime : 0.0.7 ==> 0.0.7
+winx-hd-video-converter : unversioned
+wire : 3.21.3959 ==> 3.21.3959
+wireframe-sketcher : unversioned
+wireshark : 3.4.2 ==> 3.4.3
+wireshark-chmodbpf : 3.4.3 ==> 3.4.3
+witch : 4.3.6,3498 ==> 4.3.6,3498
+wjoy : discontinued
+wkhtmltopdf : 0.12.6-2 ==> 0.12.6-2
+wombat : 0.4.0 ==> 0.4.0
+wonderfultools-screensaver : unversioned
+wondershare-filmora : unversioned
+wondershare-uniconverter : unversioned
+workbench : 1.0.9 ==> 1.0.9
+workflowy : 1.3.5-14585 ==> 1.3.5-14585
+workplace-chat : unversioned
+wormhole : unversioned
+wowmatrix : unversioned
+wowup : 2.0.3 ==> 2.0.3
+writer : 2.1.1 ==> 2.1.1
+wxcrafter : latest
+x-mirage : unversioned
+x-moto : 0.6.1 ==> 0.6.1
+x-swiftformat : 1.1 ==> 1.1
+xamarin : latest
+xamarin-ios : 14.8.0.3 ==> 14.8.0.3
+xamarin-mac : 7.2.0.3 ==> 7.2.0.3
+xamarin-workbooks : 1.5.0 ==> 1.5.0
+xaos : 4.2 ==> 4.2.1
+xattred : 1.3,2020.08 ==> 1.3,2020.08
+xca : 2.3.0 ==> 2.3.0
+xcodeclangformat : 1.2.1 ==> 1.2.1
+xdm : unversioned
+xee : 3.5.3,45:1504018134 ==> 3.5.3,45:1504018134
+xiami : 7.5.8,7058,30b52410ba8955c21df3c3555fa75f6c:a916a2565fc172a83bc0106f1f4c23d5 ==> 7.5.8,7058,30b52410ba8955c21df3c3555fa75f6c:a916a2565fc172a83bc0106f1f4c23d5
+ximalaya : 1.7.0,1610336058 ==> 1.7.0,1610336058
+xit : 1.0b15 ==> 1.0b15
+xld : 20210101,153.1 ==> 20210101,153.1
+xlink-kai : 7.4.39,539601671 ==> 7.4.39,539601671
+xmind-zen : 10.3.1-202101070049 ==> 10.3.1-202101070049
+xmplify : 1.9.6 ==> 1.9.6
+xnconvert : unversioned
+xoctave : unversioned
+xonotic : 0.8.2 ==> 0.8.2
+xpra : unversioned
+xquartz : 2.7.11 ==> 2.7.11
+xrg : 3.0.0 ==> 3.0.0
+xscope : 4.5,106 ==> 4.5,106
+yacreader : 9.7.1.2009123 ==> 9.7.1.2009123
+yam-display : 1.8.8 ==> 1.8.8
+yammer : 3.4.8 ==> 3.4.8
+yandex : unversioned
+yandex-cloud-cli : latest
+yate : 6.3,10150 ==> 6.3,10150
+yed : 3.20.1 ==> 3.20.1
+yep : 4.0.4,404.101 ==> 4.0.4,404.101
+yggdrasil : 0.3.15 ==> 0.3.15
+yoda : 1.0.1 ==> 1.0.1
+yojimbo : 4.6.1 ==> 4.6.1
+youdaodict : unversioned
+youdaonote : unversioned
+youll-never-take-me-alive : 1.0.2 ==> 1.0.2
+youtube-downloader : 0.7 ==> 0.7
+youtube-to-mp3 : unversioned
+yt-music : 1.0.6 ==> 1.0.6
+ytmdesktop-youtube-music : 1.13.0 ==> 1.13.0
+yu-writer : 0.5.3,beta ==> 0.5.3,beta
+yuna : 1.4.21 ==> 1.4.21
+zalo : 21.1.2 ==> 21.1.2
+zappy : 2.8.0 ==> 2.8.0
+zazu : 0.6.0 ==> 0.6.0
+zbuc-imgur : unversioned
+zdoom : discontinued
+zeebe-modeler : 0.11.0 ==> 0.11.0
+zeitgeist : 2.3 ==> 2.3
+zenbeats : unversioned
+zenmap : 7.91 ==> 7.91
+zeplin : unversioned
+zeronet : unversioned
+zerotier-one : unversioned
+zipcleaner : unversioned
+zoho-docs : unversioned
+zoho-workdrive : unversioned
+zoolz : unversioned
+zoom : 5.4.59931.0110 ==> 5.4.59931.0110
+zoom-for-it-admins : 5.4.59931.0110 ==> 5.4.59931.0110
+zoom-outlook-plugin : unversioned
+zprint : 1.1.1 ==> 1.1.1
+zulip : 5.5.0 ==> 5.5.0
+zwift : unversioned
+zxpinstaller : 1.6.3 ==> 1.6.3
