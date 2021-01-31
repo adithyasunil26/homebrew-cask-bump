@@ -1931,7 +1931,6 @@ skreenics
 sky-ticket
 skybox
 skyfonts
-skype
 skype-for-business
 skypewebplugin
 slack
