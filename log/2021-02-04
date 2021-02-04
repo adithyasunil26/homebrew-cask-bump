@@ -33,7 +33,7 @@ alloy : 5.1.0 ==> 5.1.0
 altair-graphql-client : 3.1.0 ==> 3.1.0
 altdeploy : 1.1 ==> 1.1
 alternote : 1.0.18,1018 ==> 1.0.18,1018
-altserver : 1.4.2,41 ==> 1.4.2,41
+altserver : 1.4.3,50 ==> 1.4.3,50
 alva : 0.9.1 ==> 0.9.1
 amadeus-pro : unversioned
 amadine : 1.1.1,90 ==> 1.1.1,90
@@ -47,9 +47,9 @@ ananas-analytics-desktop-edition : 0.9.0 ==> 0.9.0
 android-file-transfer : 5071136 ==> 5071136
 android-messages : 3.1.0 ==> 3.1.0
 androidtool : 1.66 ==> 1.66
-angry-ip-scanner : 3.7.4 ==> 3.7.4
+angry-ip-scanner : 3.7.4 ==> 3.7.5
 anonym : 2.3 ==> 2.3
-another-redis-desktop-manager : 1.4.0 ==> 1.4.0
+another-redis-desktop-manager : 1.4.0 ==> 1.4.1
 ansible-dk : 1.2.0,3 ==> 1.2.0,3
 anybar : 0.2.2 ==> 0.2.2
 anydesk : unversioned
@@ -59,7 +59,7 @@ anzeigenchef : 2.1.046 ==> 2.1.046
 ao : 6.9.0 ==> 6.9.0
 apk-icon-editor : 2.2.0 ==> 2.2.0
 app-cleaner : 7.3,813 ==> 7.3,813
-appcleaner : 3.5.1,3955 ==> 3.5.1,3955
+appcleaner : 3.6.0,4070 ==> 3.6.0,4070
 appgrid : 1.0.4 ==> 1.0.4
 appium : 1.20.2 ==> 1.20.2
 apple-events : 1.6 ==> 1.6
@@ -71,7 +71,7 @@ aptanastudio : 3.7.2.201807301111 ==> 3.7.2.201807301111
 aquamacs : 3.5 ==> 3.5
 aquaskk : 4.7.3 ==> 4.7.3
 aquaterm : 1.1.1 ==> 1.1.1
-araxis-merge : 2020.5479 ==> 2021.5533
+araxis-merge : 2021.5533 ==> 2021.5533
 archipelago : 3.14.0 ==> 3.14.0
 archiver : 3.5.0 ==> 3.5.0
 arduino : 1.8.13 ==> 1.8.13
@@ -100,7 +100,7 @@ audio-hijack : unversioned
 audiobookbinder : 2.1,201 ==> 2.1,201
 audioscrobbler : 0.9.15 ==> 0.9.15
 audioslicer : 1.1.1 ==> 1.1.1
-audirvana : 3.5.43,3573 ==> 3.5.43,3573
+audirvana : 3.5.43,3573 ==> 3.5.44,3574
 augur : 1.16.11 ==> 1.16.11
 aural : 2.2.0 ==> 2.2.0
 aurora : 2.2 ==> 2.2
@@ -127,7 +127,7 @@ axure-rp : unversioned
 backlog : 1.8.0 ==> 1.8.0
 backuploupe : 3.3,2096 ==> 3.3,2096
 balance-lock : 1.0.6,376 ==> 1.0.6,376
-balenaetcher : 1.5.115 ==> 1.5.115
+balenaetcher : 1.5.115 ==> 1.5.116
 ballast : 1.2.1 ==> 1.2.1
 bandage : 0.8.1 ==> 0.8.1
 bankid : 7.10.0 ==> 7.10.0
@@ -208,7 +208,7 @@ boxofsnoo-fairmount : 1.1.3 ==> 1.1.3
 boxy-suite : latest
 brackets : 1.14.2 ==> 1.14.2
 brainfm : 0.1.5 ==> 0.1.5
-brave-browser : 88.1.19.88,119.88 ==> 88.1.19.88,119.88
+brave-browser : 88.1.19.88,119.88 ==> 88.1.19.90,119.90
 breakaway : 2.0.1 ==> 2.0.1
 breaktimer : 0.8.1 ==> 0.8.1
 brewservicesmenubar : 3.0.0 ==> 3.0.0
@@ -227,7 +227,7 @@ buildsettingextractor : 1.4.2 ==> 1.4.2
 bunch : 1.3.6,58 ==> 1.3.6,58
 bunqcommunity-bunq : 0.9.10 ==> 0.9.10
 burn : 3.1 ==> 3.1
-busycal : 3.12.2,2021-01-20-00-23 ==> 3.12.3,2021-02-02-02-44
+busycal : 3.12.3,2021-02-02-02-44 ==> 3.12.3,2021-02-04-14-06
 busycontacts : 1.5.1,2021-01-21-02-27 ==> 1.5.1,2021-01-21-02-27
 butler : unversioned
 butt : 0.1.27 ==> 0.1.27
@@ -249,7 +249,7 @@ captin : 1.1.1,129:1607066962 ==> 1.1.1,129:1607066962
 caption : 2.0.1 ==> 2.0.1
 catch : 1.9.4 ==> 1.9.4
 ccmenu : 15.0 ==> 15.0
-cctalk : 7.7.5.5 ==> 7.8.1.7
+cctalk : 7.8.1.7 ==> 7.8.1.7
 cd-to : 3.1 ==> 3.1
 cellery : 0.6.0 ==> 0.6.0
 cemu : 1.3 ==> 1.3
@@ -267,7 +267,7 @@ chiaki : 1.3.0 ==> 1.3.0
 chrome-devtools : 1.1.0 ==> 1.1.0
 chrome-remote-desktop-host : unversioned
 chromedriver : 88.0.4324.96 ==> 88.0.4324.96
-chromium : 848896 ==> 849453
+chromium : 849453 ==> 850609
 chronicle : 9.7.3,8706 ==> 9.7.3,8706
 chronos : 5.0.1 ==> 5.0.1
 chronycontrol : 1.4.1,257 ==> 1.4.1,257
@@ -319,7 +319,7 @@ coin-wallet : 3.0.6 ==> 3.0.6
 collabshot : 1.2.3.985 ==> 1.2.3.985
 colorpicker-materialdesign : 2.0.0 ==> 2.0.0
 colorsnapper : 1.6.4 ==> 1.6.4
-colorwell : 7.2.4 ==> 7.2.4
+colorwell : 7.2.4 ==> 7.2.5
 colour-contrast-analyser : 3.1.2 ==> 3.1.2
 combine-pdfs : 5.5.2 ==> 5.5.2
 comma-chameleon : 0.5.2 ==> 0.5.2
@@ -353,7 +353,7 @@ couchpotato : 3.0.1 ==> 3.0.1
 couleurs : 1.2.1,107 ==> 1.2.1,107
 countdown : 0.1.0 ==> 0.1.0
 coverload : 2.2.0-757 ==> 2.2.0-757
-cozy-drive : 3.24.1 ==> 3.24.1
+cozy-drive : 3.24.1 ==> 3.25.0
 craftmanager : 1.0.103,216 ==> 1.0.103,216
 create-recovery-partition-installer : 1.1 ==> 1.1
 createuserpkg : 1.2.4 ==> 1.2.4
@@ -361,7 +361,7 @@ creepy : 1.4.1 ==> 1.4.1
 crossover : 20.0.4.33196 ==> 20.0.4.33196
 cryo : 0.5.22 ==> 0.5.22
 crypter : 5.0.0 ==> 5.0.0
-cryptomator : 1.5.11 ==> 1.5.11
+cryptomator : 1.5.11 ==> 1.5.12
 crystalmaker : 10.6.0 ==> 10.6.0
 crystax-ndk : 10.3.2 ==> 10.3.2
 cubicsdr : 0.2.5 ==> 0.2.5
@@ -424,7 +424,7 @@ domainbrain : 2.0.1 ==> 2.0.1
 dosbox : 0.74-3 ==> 0.74-3
 doteditor : 0.3.1 ==> 0.3.1
 double-commander : 0.9.10-9640 ==> 0.9.10-9640
-downie : 4.1.15,4201 ==> 4.1.15,4201
+downie : 4.1.16,4206 ==> 4.1.16,4206
 dragthing : 5.9.17 ==> 5.9.17
 drama : 2.1.1,43 ==> 2.1.1,43
 drawbot : 3.126 ==> 3.126
@@ -435,16 +435,15 @@ dropdmg : 3.6.1 ==> 3.6.1
 dropletmanager : 0.5.0 ==> 0.5.0
 dropshare : 5.9,5200 ==> 5.9,5200
 dteoh-devdocs : 0.6.2 ==> 0.6.2
-dungeon-crawl-stone-soup-console : 0.26.0 ==> 0.26.0
-dungeon-crawl-stone-soup-tiles : 0.26.0 ==> 0.26.0
+dungeon-crawl-stone-soup-console : 0.26.0 ==> 0.26.1
+dungeon-crawl-stone-soup-tiles : 0.26.0 ==> 0.26.1
 duo-connect : 1.1.1 ==> 1.1.1
 duplicacy-web-edition : 1.5.0 ==> 1.5.0
 duplicati : 2.0.5.112,canary:2021-01-20 ==> 2.0.5.112,canary:2021-01-20
-dusty : 0.7.5 ==> 0.7.6-RC2
 dwihn0r-keepassx : 0.4.4 ==> 0.4.4
 dyn-updater : 5.5.0 ==> 5.5.0
 dynamic-dark-mode : 1.5.2 ==> 1.5.2
-dynobase : 1.3.1 ==> 1.3.1
+dynobase : 1.3.1 ==> 1.3.2
 eagle : 9.6.2 ==> 9.6.2
 easy-move-plus-resize : 1.4.0 ==> 1.4.0
 easyeda : 6.4.7 ==> 6.4.7
@@ -466,20 +465,20 @@ electron-fiddle : 0.19.0 ==> 0.19.0
 electronmail : 4.10.0 ==> 4.10.0
 electrum-ltc : 3.3.8.1 ==> 3.3.8.1
 electrumsv : 1.3.11 ==> 1.3.11
-element : 1.7.18 ==> 1.7.18
+element : 1.7.18 ==> 1.7.20
 elmedia-player : 7.17,2353 ==> 7.17,2353
-eloston-chromium : 88.0.4324.104-1.1 ==> 88.0.4324.104-1.1
+eloston-chromium : 88.0.4324.104-1.1 ==> 88.0.4324.146-1.1
 elpass : 1.3.1,338 ==> 1.3.1,338
 emacs : 27.1 ==> 27.1
 emby-server : 4.5.4.0 ==> 4.5.4.0
-emclient : 8.1.1054 ==> 8.1.1054
+emclient : 8.1.1054 ==> 8.1.1060
 eme : 0.15.1 ==> 0.15.1
 emojipedia : 20190306 ==> 20190306
 endless-sky : 0.9.12 ==> 0.9.12
 energybar : 1.7.19321 ==> 1.7.19321
 enjoyable : 1.2,650 ==> 1.2,650
 envkey : 1.4.18 ==> 1.4.18
-epic : 86.0.4240.111 ==> 86.0.4240.111
+epic : 86.0.4240.111 ==> 88.0.4324.96
 epic-games : 10.19.2 ==> 10.19.2
 epichrome : 2.3.24 ==> 2.3.24
 epoch-flip-clock : 0.0.5 ==> 0.0.5
@@ -488,7 +487,7 @@ epubquicklook : 1.8 ==> 1.8
 eqmac : 0.3.7 ==> 0.3.7
 espresso : 5.4.1 ==> 5.4.1
 ethereum-wallet : 0.11.1 ==> 0.11.1
-eul : 1.5.8 ==> 1.5.8
+eul : 1.5.8 ==> 1.5.10
 evernote : 10.7.6,2321 ==> 10.7.6,2321
 exactscan : 20.1.6 ==> 20.1.6
 exfalso : 4.3.0 ==> 4.3.0
@@ -505,7 +504,7 @@ fedora-media-writer : 4.2.0 ==> 4.2.0
 fellow : 1.0.21 ==> 1.0.21
 fenix : 2.0.0 ==> 2.0.0
 ferdi : 5.5.0 ==> 5.5.0
-fetch : 0.3.13 ==> 0.3.13
+fetch : 0.3.13 ==> 0.3.14
 figmadaemon : 17 ==> 17
 figtree : 1.4.4 ==> 1.4.4
 filebot : 4.9.2 ==> 4.9.2
@@ -517,12 +516,11 @@ firebase-admin : 1.0.1 ==> 1.0.1
 firebird-emu : 1.5 ==> 1.5
 firecamp : 1.4.4 ==> 1.4.4
 fiscript : 1.0.1 ==> 1.0.1
-fl-studio : 20.8.0.1377 ==> 20.8.1.1457
+fl-studio : 20.8.1.1457 ==> 20.8.1.1457
 flame : 2.6.0 ==> 2.6.0
 flexiglass : 1.7.1,12833 ==> 1.7.1,12833
 flic : 2.0.2 ==> 2.0.2
-flightgear : 2020.3.5 ==> 2020.3
-flipper : 0.73.0 ==> 0.73.0
+flipper : 0.73.0 ==> 0.74.0
 fliqlo : 1.8.3 ==> 1.8.3
 flirc : 3.25.3 ==> 3.25.3
 flow : 0.143.1 ==> 0.143.1
@@ -531,17 +529,16 @@ flowdock : 1.2.9,35 ==> 1.2.9,35
 flowsync : 3.0.0.1337 ==> 3.0.0.1337
 flume : 1.9.0 ==> 1.9.0
 fluor : 2.1.0 ==> 2.1.0
-flux : 0.103.0 ==> 0.103.0
-fly : 6.7.3 ==> 6.7.4
+flux : 0.104.0 ==> 0.105.0
 flycut : 1.9.6 ==> 1.9.6
 flying-carpet : 3.0 ==> 3.0
 fman : 1.7.3 ==> 1.7.3
-fme : 2020.2.2,20817 ==> 2020.2.2,20817
+fme : 2020.2.2,20817 ==> 2020.2.3,20820
 focus : 1.11 ==> 1.11
 focus-booster : 2.2.0 ==> 2.2.0
 focused : 3.2,1825:1544822315 ==> 3.2,1825:1544822315
 fog : 1.4.5 ==> 1.4.5
-fontexplorer-x-pro : 7.2.5 ==> 7.2.5
+fontexplorer-x-pro : 7.2.5 ==> 7.2.6
 fontforge : 20201107 ==> 20201107
 fontgoggles : 1.1.17 ==> 1.1.17
 fontlab : 7.2.0.7644 ==> 7.2.0.7644
@@ -551,17 +548,15 @@ forecast : 0.9.1,129 ==> 0.9.1,129
 foreman : 0.87.2 ==> 0.87.2
 fork : 2.3.2 ==> 2.3.2
 forklift : 3.4.4,211 ==> 3.4.4,211
-foxitreader : 4.1.1 ==> 4.1.1
+foxitreader : 4.1.1 ==> 4.1.3
 foxmail : 1.4.3.94171 ==> 1.4.3.94171
-fpcsrc : 3.2.0-2,2.0.10 ==> 3.2.0-2
 franz : 5.6.1 ==> 5.6.1
 freac : 1.1.3 ==> 1.1.3
 fredm-fuse : 1.5.6 ==> 1.5.6
-free-ruler : 2.0.4 ==> 2.0.4
+free-ruler : 2.0.4 ==> 2.0.5
 freecad : 0.18.4,16146-rev1 ==> 0.18.4,16146-rev1
 freecol : 0.11.6 ==> 0.11.6
 freedom : 2.4.3,1716.1 ==> 2.4.3,1716.1
-freemind : 1.0.1 ==> 1.1.0
 freenettray : 2.2.0 ==> 2.2.0
 freeorion : 0.4.10.1,2020-09-25:39cfe10 ==> 0.4.10.1,2020-09-25:39cfe10
 freesmug-chromium : 85.0.4183.102 ==> 85.0.4183.102
@@ -572,7 +567,6 @@ fs-uae : 3.0.5 ==> 3.0.5
 fsmonitor : 1.2,137 ==> 1.2,137
 funter : 5.3,213 ==> 5.3,213
 fuse : 1.9.0 ==> 1.9.0
-fvim : 0.2.348,81a158c ==> 0.2.349+9f6430d
 g-desktop-suite : 0.3.1 ==> 0.3.1
 ganache : 2.5.4 ==> 2.5.4
 ganttproject : 2.8.11,2396 ==> 2.8.11,2396
@@ -583,13 +577,12 @@ gb-studio : 1.2.1 ==> 1.2.1
 gcollazo-mongodb : 4.2.0-build.3 ==> 4.2.0-build.3
 gdisk : 1.0.6 ==> 1.0.6
 gdlauncher : 1.0.11 ==> 1.0.11
-geany : 1.37 ==> 1.37.1
 gearboy : 3.2.0 ==> 3.2.0
 gearsystem : 3.2.0 ==> 3.2.0
 geburtstagschecker : 1.8.2,195 ==> 1.8.2,195
 geekbench : 5.3.1,503690 ==> 5.3.1,503690
 geektool : 3.3.1,331.014:1470733752 ==> 3.3.1,331.014:1470733752
-gemini : 2.8.0,368:1611661802 ==> 2.8.2,371:1612199911
+gemini : 2.8.2,371:1612199911 ==> 2.8.2,371:1612199911
 geotag : 4.9 ==> 4.9
 geotag-photos-pro : 1.7.0 ==> 1.7.0
 geotagger : 2.00 ==> 2.00
@@ -622,20 +615,15 @@ gloomhaven-helper : 8.4.8 ==> 8.4.8
 gltfquicklook : 0.2.2 ==> 0.2.2
 gluemotion : 1.5.0,6034 ==> 1.5.0,6034
 glyphfinder : 1.4.1 ==> 1.4.1
-glyphs : 3.0.3,3059 ==> 3.0.3,3060
+glyphs : 3.0.3,3060 ==> 3.0.3,3061
 gmail-notifier : 2.1.0 ==> 2.1.0
 gmvault : 1.9.1 ==> 1.9.1
 gns3 : 2.2.17 ==> 2.2.17
-gnucash : 4.4,1 ==> 4.4
-go-agent : 19.1.0-8469 ==> 21.1.0
-go-server : 19.1.0-8469 ==> 21.1.0
 go2shell : 2.5,25 ==> 2.5,25
 gobdokumente : 1.8 ==> 1.8
 godot : 3.2.3 ==> 3.2.3
 godot-mono : 3.2.3 ==> 3.2.3
 gog-galaxy : 2.0.35.19a ==> 2.0.35.19a
-gogs : 0.11.91 ==> 0.12.3
-goldendict : 1.5.0-RC2,372-gc3ff15f%28Qt_5121%29 ==> 1.5.0
 goofy : 3.5.4 ==> 3.5.4
 google-chat : 20.11.241 ==> 20.11.241
 gopass-ui : 0.7.0 ==> 0.7.0
@@ -665,7 +653,7 @@ guijs : 0.1.19 ==> 0.1.19
 gulp : 0.1.0 ==> 0.1.0
 guppy : 0.3.0 ==> 0.3.0
 gureumkim : 1.11.1 ==> 1.11.1
-gyazo : 3.8.0 ==> 3.8.1
+gyazo : 3.8.1 ==> 3.8.1
 gzdoom : 4.5.0 ==> 4.5.0
 ha-menu : 2.4.1 ==> 2.4.1
 hacker-menu : 1.1.5 ==> 1.1.5
@@ -694,7 +682,6 @@ hey : 0.1.4 ==> 0.1.4
 hiarcs-chess-explorer : 1.9.5 ==> 1.9.5
 hiddenbar : 1.6 ==> 1.6
 hocus-focus : 1.3,2131 ==> 1.3,2131
-home-assistant : 2021.1.1,9 ==> 2021.2/2021.34
 honer : 1.1 ==> 1.1
 hookshot : 1.17.1,34 ==> 1.17.1,34
 hopper-debugger-server : 2.6 ==> 2.6
@@ -702,11 +689,9 @@ horndis : 9.2 ==> 9.2
 horos : 4.0.0 ==> 4.0.0
 hoststool : 2.7.0 ==> 2.7.0
 hot : 1.2.3 ==> 1.2.3
-houdahspot : 6.0.3,555 ==> 6.0.3,555
+houdahspot : 6.0.3,555 ==> 6.0.4,576
 hstracker : 1.8.0 ==> 1.8.0
-http-toolkit : 1.0.2 ==> 1.1.0
 hubstaff : 1.5.16,2850 ==> 1.5.16,2850
-hugin : 2019.2.0 ==> 2020.0
 hwsensors : 6.26.1440 ==> 6.26.1440
 hype : 4.1.4,724 ==> 4.1.4,724
 switch : unversioned
@@ -720,7 +705,7 @@ icefloor : 2.0.2 ==> 2.0.2
 icestudio : 0.5.0 ==> 0.5.0
 icloud-control : 1.2.0 ==> 1.2.0
 iconizer : 2020.11.0 ==> 2020.11.0
-iconjar : 2.7.1,46384 ==> 2.7.1,46552
+iconjar : 2.7.1,46552 ==> 2.7.1,46552
 icons : 1.1 ==> 1.1
 icons8 : 5.7.4,57400 ==> 5.7.4,57400
 iconset : 1.3.11 ==> 1.3.11
@@ -731,17 +716,16 @@ ifunbox : 1.8 ==> 1.8
 igdm : 3.0.1 ==> 3.0.1
 igetter : 2.9.7 ==> 2.9.7
 iglance : 2.1.0 ==> 2.1.0
-igv : 2.8.13 ==> 2.8.13
+igv : 2.8.13 ==> 2.9.0
 iina : 1.1.2,128 ==> 1.1.2,128
-iina-plus : 0.5.9,20122721 ==> 0.5.10(21011418)
 ilok-license-manager : 5.3.2,3151 ==> 5.3.2,3151
 ilya-birman-typography-layout : 3.7 ==> 3.7
 image-tool : 1.4.1 ==> 1.4.1
-image2icon : 2.13,881 ==> 2.11,844
+image2icon : 2.13,881 ==> 2.12,890
 imagealpha : 1.5.1 ==> 1.5.1
 imagemin : 0.1.0 ==> 0.1.0
 imageoptim : 1.8.8 ==> 1.8.8
-imazing : 2.13.2,14531 ==> 2.13.2,14531
+imazing : 2.13.2,14531 ==> 2.13.3,14694
 imazing-mini : 2.8.1,9825:1542056055 ==> 2.8.1,9825:1542056055
 imgotv : 6.3.8 ==> 6.3.8
 inboard : 1.1.5,431 ==> 1.1.5,431
@@ -756,7 +740,6 @@ instant-articles-builder : 0.2.2 ==> 0.2.2
 intel-haxm : 7.6.5 ==> 7.6.5
 interarchy : 10.0.7 ==> 10.0.7
 intune-company-portal : 2.11.201100 ==> 2.11.201100
-invesalius : 3.1.1 ==> 3.1.99994
 invisiblix : 3.2 ==> 3.2
 invisionsync : 1.9.1,692 ==> 1.9.1,692
 invisor-lite : 3.15.1,940.210121 ==> 3.15.1,940.210121
@@ -778,7 +761,6 @@ isteg : 1.6.2 ==> 1.6.2
 isubtitle : 3.4,38 ==> 3.4,38
 itch : 25.4.1 ==> 25.4.1
 iterm2 : 3.4.3 ==> 3.4.3
-ithoughtsx : 5.24 ==> 5.25
 itools : 2.9.2 ==> 2.9.2
 itsycal : 0.12.6,2052 ==> 0.12.6,2052
 itubedownloader : 6.5.27,65027 ==> 6.5.27,65027
@@ -805,7 +787,6 @@ jitsi : 2.10.5550 ==> 2.10.5550
 jitsi-meet : 2.4.2 ==> 2.4.2
 jollysfastvnc : 1.58,1925902 ==> 1.58,1925902
 joshjon-nocturnal : 1.1.1 ==> 1.1.1
-josm : 17428 ==> 17429
 journey : 2.14.6 ==> 2.14.6
 jubler : 7.0.3 ==> 7.0.3
 juicebar : 1.0.70 ==> 1.0.70
@@ -820,7 +801,7 @@ kakapo : 1.3.0 ==> 1.3.0
 kap : 3.3.2 ==> 3.3.2
 kapitainsky-rclone-browser : 1.8.0,a0b66c6 ==> 1.8.0,a0b66c6
 karabiner-elements : 13.3.0 ==> 13.3.0
-katalon-studio : 7.9.0 ==> 7.9.0
+katalon-studio : 7.9.0 ==> 7.9.1
 katana : 1.4.4 ==> 1.4.4
 kawa : 3.1.1 ==> 3.1.1
 keep : 1.2.0 ==> 1.2.0
@@ -835,14 +816,13 @@ kextviewr : 1.1.0 ==> 1.1.0
 keyboard-lock : 1.0 ==> 1.0
 keycast : 1.1 ==> 1.1
 keycastr : 0.9.9 ==> 0.9.9
-keycue : 9.8 ==> 9.9
 keypad-layout : 1.8 ==> 1.8
 keysmith : 1.9.1,77 ==> 1.9.1,77
 keystore-explorer : 5.4.4 ==> 5.4.4
-kid3 : 3.8.4 ==> 3.8.5
+kid3 : 3.8.5 ==> 3.8.5
 kindle : 1.30.59055 ==> 1.30.59055
 kindle-comic-converter : 5.5.2 ==> 5.5.2
-kinza : 6.7.2 ==> 6.7.2
+kinza : 6.7.2 ==> 6.8.0
 kitematic : 0.17.13 ==> 0.17.13
 kitty : 0.19.3 ==> 0.19.3
 kiwix : 2.1.2 ==> 2.1.2
@@ -856,12 +836,12 @@ knotes : 2.7.1 ==> 2.7.1
 knuff : 1.3 ==> 1.3
 koa11y : 3.0.0 ==> 3.0.0
 kobo : latest
-kode54-cog : 1374,0b09d1567 ==> 1382,dce400435
+kode54-cog : 1382,dce400435 ==> 1382,dce400435
 kodelife : 0.9.8,143 ==> 0.9.8,143
 kodi : 18.9-Leia ==> 18.9-Leia
 komet : 1.0,32 ==> 1.0,32
 koodo-reader : 1.2.0 ==> 1.2.0
-kotlin-native : 1.4.21 ==> 1.4.21
+kotlin-native : 1.4.21 ==> 1.4.30
 krisp : 1.18.9 ==> 1.18.9
 kryoflux : 2.62 ==> 2.62
 ksnip : 1.8.0 ==> 1.8.0
@@ -869,7 +849,7 @@ kstars : 3.5.1 ==> 3.5.1
 kube-cluster : 0.5.3 ==> 0.5.3
 kube-forwarder : 1.5.1 ==> 1.5.1
 kubecontext : 2.0.0 ==> 2.0.0
-kui : 9.3.12 ==> 10.0.1
+kui : 10.1.0 ==> 10.1.1
 kvirc : 5.0.0 ==> 5.0.0
 lab : 0.19.0 ==> 0.19.0
 lacona : 1.1.8 ==> 1.1.8
@@ -877,18 +857,15 @@ lando : 3.0.23 ==> 3.0.23
 lantern : latest
 laravel-kit : 1.2.4 ==> 1.2.4
 lastfm : 2.1.39 ==> 2.1.39
-lastpass : 4.60.0,1121 ==> 4.64.0,1133
 latexdraw : 4.0.3 ==> 4.0.3
 launchcontrol : 1.51.2,1470 ==> 1.51.2,1470
 launchrocket : 0.7 ==> 0.7
 laverna : 0.7.51 ==> 0.7.51
-lazarus : 2.0.10 ==> 3.2.0-2
 lazpaint : 7.1.6 ==> 7.1.6
 league-displays : 1.0.1028-beta ==> 1.0.1028-beta
 leap-motion : 2.3.1 ==> 2.3.1
 leela : 0.11.0 ==> 0.11.0
 lego-mindstorms-ev3 : 1.4.4 ==> 1.4.4
-lektor : 3.0.1 ==> 3.2.0
 lens : 4.0.8 ==> 4.0.8
 leocad : 21.01 ==> 21.01
 lepton : 1.2.1 ==> 1.2.1
@@ -904,10 +881,9 @@ line-bot-designer : 1.3.4 ==> 1.3.4
 linear : 1.5 ==> 1.5
 linein : discontinued
 linkliar : 2.1.1 ==> 2.1.1
-listen1 : 2.17.9 ==> 2.17.9
+listen1 : 2.17.9 ==> 2.18.0
 litecoin : 0.18.1 ==> 0.18.1
 liteicon : 4.1,1518 ==> 4.1,1518
-liteide : 37.1 ==> 37.3
 little-navmap : 2.6.7 ==> 2.6.7
 littlesecrets : 1.9.4 ==> 1.9.4
 livereload : 2.3.84 ==> 2.3.84
@@ -921,7 +897,6 @@ locationsimulator : 0.1.7 ==> 0.1.7
 lockdown : 1.0.0 ==> 1.0.0
 lockrattler : 4.30,2020.11 ==> 4.30,2020.11
 lofi : 1.5.0 ==> 1.5.0
-logdna-agent : 2.1.2 ==> 2.2.1
 logdna-cli : 2.0.0 ==> 2.0.0
 logicalshift-zoom : 1.1.5 ==> 1.1.5
 logisim : 2.7.1 ==> 2.7.1
@@ -964,12 +939,11 @@ macsvg : 1.1.7 ==> 1.1.7
 mactex : 2020.0407 ==> 2020.0407
 mactex-no-gui : 2020.0407 ==> 2020.0407
 mactracker : 7.10.2 ==> 7.10.2
-macupdater : 2.0.0,10946 ==> 2.0.0,10946
+macupdater : 2.0.1,11030 ==> 2.0.1,11030
 macwinzipper : 2.7 ==> 2.7
 macx-video : unversioned
 maczip : 2.1 ==> 2.1
 magic-launch : 1.4.3 ==> 1.4.3
-magicavoxel : 0.99.4.2 ==> 0.99.6
 magiccap : 2.1.2 ==> 2.1.2
 magicprefs : 2.4.3,83 ==> 2.4.3,83
 mailspring : 1.8.0 ==> 1.8.0
@@ -978,25 +952,21 @@ makemkv : 1.15.4 ==> 1.15.4
 malwarebytes : 4.7.9.3978 ==> 4.7.9.3978
 mame : 0.228 ==> 0.228
 mamp : 6.3 ==> 6.3
-manico : 2.9,405 ==> 2.9,405
+manico : 2.9,405 ==> 2.9.1,407
 manta : 1.1.4 ==> 1.1.4
-manuskript : 0.10.0 ==> 0.11.0
 mapillary-uploader : 1.2.7 ==> 1.2.7
-marathon : 20200904 ==> 20201026
-marathon-infinity : 20200904 ==> 20201026
-marathon2 : 20200904 ==> 20201026
 marble : 2.2.0 ==> 2.2.0
-marginnote : 3.7.2,3.7.2009 ==> 3.7.2,3.7.2009
+marginnote : 3.7.2,3.7.2009 ==> 3.7.3,3.7.3002
 mari0 : unversioned
 maria : 1.2.6,1701213 ==> 1.2.6,1701213
 mark-text : 0.16.3 ==> 0.16.3
 markdown-service-tools : 3.0.3 ==> 3.0.3
 markdownmdimporter : latest
-marked : 1.2.8 ==> 1.2.8
+marked : 1.2.8 ==> 1.2.9
 markright : 0.1.11 ==> 0.1.11
 marshallofsound-google-play-music-player : 4.7.1 ==> 4.7.1
 marta : 0.8 ==> 0.8
-marvel : 10.6.1,4659 ==> 10.6.1,4659
+marvel : 10.6.1,4659 ==> 10.6.3,4663
 marvin : 1.58.2 ==> 1.58.2
 masscode : 1.3.0 ==> 1.3.0
 massreplaceit : unversioned
@@ -1004,11 +974,10 @@ master-pdf-editor : unversioned
 masterway-note : unversioned
 mat2 : 0.12.0 ==> 0.12.0
 mate-translate : 7.1.0,3016 ==> 7.1.0,3016
-mater : 1.0.8 ==> 1.0.10
 material-colors : 2.0.1 ==> 2.0.1
 mathpix-snipping-tool : 2.7.1,192 ==> 2.7.1,192
 mathtype : unversioned
-matterhorn : 50200.11.0 ==> 50200.12.0
+matterhorn : 50200.12.0 ==> 50200.12.0
 mattermost : 4.6.2 ==> 4.6.2
 mattr-slate : 1.2.0 ==> 1.2.0
 mavensmate : 0.0.11 ==> 0.0.11
@@ -1021,11 +990,11 @@ mdimagesizemdimporter : 2.6.1 ==> 2.6.1
 mdrp : 9.0.2 ==> 9.0.2
 mechvibes : 2.2.0 ==> 2.2.0
 media-converter : 3.0 ==> 3.0
-mediaelch : 2.8.2,2020-12-20:8ee88442 ==> 2.8.6,2021-01-22:f215c8a6
+mediaelch : 2.8.6,2021-01-22:f215c8a6 ==> 2.8.6,2021-01-22:f215c8a6
 mediahuman-audio-converter : unversioned
 mediahuman-youtube-downloader : unversioned
 media-info : 20.09 ==> 20.09
-mediathekview : 13.7.0 ==> 13.7.0
+mediathekview : 13.7.0 ==> 13.7.1
 meetingbar : 2.0.5 ==> 2.0.5
 megacmd : 0.016 ==> 0.016
 megasync : 4.3.8.0 ==> 4.3.8.0
@@ -1035,9 +1004,8 @@ mellowplayer : 3.4.0 ==> 3.4.0
 melodics : 2.1.5641 ==> 2.1.5641
 melonbooksviewer : unversioned
 memo : unversioned
-memory : 2020.25,252 ==> 2020.25,252
+memory : 2020.25,252 ==> 2021.01,259
 memory-clean-3 : unversioned
-memory-map : 1.7-15 ==> 1.7.1-18
 mendeley : 1.19.8 ==> 1.19.8
 menubar-colors : 2.3.0 ==> 2.3.0
 menubar-countdown : 2.1 ==> 2.1
@@ -1052,7 +1020,6 @@ messenger-native : 1.0.0 ==> 1.0.0
 messenger-unofficial : 0.1.13.1491443794,7b1777b58fef0bf9 ==> 0.1.13.1491443794,7b1777b58fef0bf9
 metabase : 0.37.8 ==> 0.37.8
 metaimage : 1.9.8,6091 ==> 1.9.8,6091
-metaz : 1.0.beta-113 ==> 1.0a15
 meteorologist : 3.4.3 ==> 3.4.3
 mgba : 0.8.4 ==> 0.8.4
 mi : 3.5.1,975 ==> 3.5.1,975
@@ -1064,7 +1031,6 @@ microblog : 2.0.3,81 ==> 2.0.3,81
 microsoft-auto-update : 4.31.21011103 ==> 4.31.21011103
 microsoft-azure-storage-explorer : 1.17.0 ==> 1.17.0
 microsoft-edge : 88.0.705.56 ==> 88.0.705.56
-microsoft-r-open : 3.5.1 ==> 4.0.2
 microsoft-teams : 1.3.00.33671 ==> 1.3.00.33671
 middle : 1.5.17,51 ==> 1.5.17,51
 middleclick : discontinued
@@ -1075,9 +1041,8 @@ mikogo : unversioned
 miktex-console : 21.1 ==> 21.1
 milanote : 2.2.28 ==> 2.2.28
 milkman : 5.0.0 ==> 5.0.0
-milkytracker : 1.02.00 ==> 1.03.00
 mimecast : unversioned
-min : 1.17.3 ==> 1.18.0
+min : 1.18.0 ==> 1.18.0
 mindforger : 1.52.0 ==> 1.52.0
 mindjet-mindmanager : 13.2.204 ==> 13.2.204
 mindmaster : unversioned
@@ -1099,7 +1064,6 @@ mkchromecast : 0.3.8.1 ==> 0.3.8.1
 mks : 1.6 ==> 1.6
 mkvtoolnix : 53.0.0 ==> 53.0.0
 mkvtools : 3.7.2 ==> 3.7.2
-mmex : 1.3.5 ==> 1.3.6
 mmhmm : 1.1.1,1611102000 ==> 1.1.1,1611102000
 mnemosyne : 2.7.3 ==> 2.7.3
 mob : 0.2.2 ==> 0.2.2
@@ -1126,7 +1090,7 @@ monolingual : 1.8.2 ==> 1.8.2
 moonlight : 3.0.0 ==> 3.0.0
 moose : 0.6.2 ==> 0.6.2
 morkro-papyrus : 1.0.2 ==> 1.0.2
-morpheus : 2.1.0.b190630 ==> 2.1.0.b190630
+morpheus : 2.2.0 ==> 2.2.0
 mos : 3.1.0 ==> 3.1.0
 moscow-ml : 2.10.1 ==> 2.10.1
 motrix : 1.5.15 ==> 1.5.15
@@ -1147,7 +1111,7 @@ mplayerx : 1.1.4,1920 ==> 1.1.4,1920
 mpv : 0.33.0 ==> 0.33.0
 mqtt-explorer : 0.3.5 ==> 0.3.5
 mqttfx : 1.7.1 ==> 1.7.1
-mqttx : 1.5.0 ==> 1.5.1
+mqttx : 1.5.1 ==> 1.5.1
 mtgaprotracker : 2.1.14 ==> 2.1.14
 mtmr : 0.27,433 ==> 0.27,433
 mu-editor : 1.0.3 ==> 1.0.3
@@ -1157,7 +1121,7 @@ mullvadvpn : 2020.7 ==> 2020.7
 multi : 2.1.1 ==> 2.1.1
 multibit-hd : discontinued
 multipatch : 1.7.1 ==> 1.7.1
-multitouch : 1.22.1,125 ==> 1.23,126
+multitouch : 1.23,126 ==> 1.23,126
 mumble : 1.3.3 ==> 1.3.3
 mumu : 1.1.8,lpJFPDtlTzmaCS8ItGVi ==> 1.1.8,lpJFPDtlTzmaCS8ItGVi
 munki : 5.2.1.4260 ==> 5.2.1.4260
@@ -1185,7 +1149,6 @@ name-mangler : unversioned
 namechanger : 3.4.3,12 ==> 3.4.3,12
 nano : 5.5 ==> 5.5
 nanostudio : 1.45 ==> 1.45
-napari : 0.4.2 ==> 0.4.4
 nasas-eyes : latest
 native-access : unversioned
 nativedisplaybrightness : 0.0.5 ==> 0.0.5
@@ -1214,8 +1177,7 @@ nitroshare : 0.3.4 ==> 0.3.4
 no-ip-duc : 4.0.12,55.0 ==> 4.0.12,55.0
 nocturn : 1.8.2 ==> 1.8.2
 nocturnal : 0.3 ==> 0.3
-nodebox : 3.0.51 ==> 3.0.52
-noisebuddy : 1.2 ==> 1.2
+noisebuddy : 1.2 ==> 1.3
 nomad : 1.0.3 ==> 1.0.3
 noraswitch : 1.0.2,40 ==> 1.0.2,40
 nordvpn : 6.0.2,154 ==> 6.0.2,154
@@ -1223,7 +1185,7 @@ nordvpn-teams : 1.7.1,1276 ==> 1.7.1,1276
 nosleep : 1.5.1 ==> 1.5.1
 not-pacman : 1004 ==> 1004
 not-tetris : 2 ==> 2
-nota : 0.21.2 ==> 0.21.2
+nota : 0.21.2 ==> 0.22.0
 notable : 1.8.4 ==> 1.8.4
 notational-velocity : 2.0b5,8 ==> 2.0b5,8
 notebooks : 2.3.3,205 ==> 2.3.3,205
@@ -1236,19 +1198,15 @@ nrlquaker-winbox : 3.27.0 ==> 3.27.0
 nslogger : 1.9.7 ==> 1.9.7
 nsregextester : unversioned
 ntfstool : 2.3.2 ==> 2.3.2
-nuclear : 0.6.6 ==> 0.6.8
 nucleo : 2.6.1 ==> 2.6.1
 nulloy : 0.8.2 ==> 0.8.2
 nullpomino : 7.5.0 ==> 7.5.0
 numi : 3.29.680 ==> 3.29.680
 nvalt : 2.2.8,128 ==> 2.2.8,128
-nwjs : 0.50.3 ==> 0.51.0
 nzbget : 21.0 ==> 21.0
 nzbvortex : 3.4.3 ==> 3.4.3
 objektiv : 0.6.3 ==> 0.6.3
 obs : 26.1.2 ==> 26.1.2
-obs-ndi : 4.9.0 ==> 4.9.1
-obs-virtualcam : 1.3.1,5bf3231 ==> 1.3.1
 obs-websocket : 4.8.0 ==> 4.8.0
 obsidian : 0.10.11 ==> 0.10.11
 obyte : 3.3.1 ==> 3.3.1
@@ -1259,14 +1217,13 @@ octoscreen : 1.0.0 ==> 1.0.0
 odrive : 6951 ==> 6951
 okta-advanced-server-access : 1.50.4 ==> 1.50.4
 olive : 1e3cf53 ==> 1e3cf53
-omegat : 4.3.2 ==> 5.5.0
 omnidazzle : discontinued
 omnidisksweeper : 1.12.1 ==> 1.12.1
 omnifocus : 3.11.2 ==> 3.11.2
 omnigraffle : 7.18.2 ==> 7.18.2
 omnioutliner : 5.8.1 ==> 5.8.1
-omniplan : 4.2.3 ==> 4.2.3
-one-switch : 1.16,278 ==> 1.17,293
+omniplan : 4.2.3 ==> 4.2.4
+one-switch : 1.16,278 ==> 1.18,295
 onedrive : 20.169.0823.0006 ==> 20.169.0823.0006
 onenote-importer-preview : 1.0.4 ==> 1.0.4
 onepile : 2.3,1120 ==> 2.3,1120
@@ -1280,9 +1237,6 @@ opencore-configurator : unversioned
 opencpn : 5.2.4,1.6b314e6 ==> 5.2.4,1.6b314e6
 opendnsupdater : 3.1 ==> 3.1
 openemu : 2.3.3 ==> 2.3.3
-openineditor-lite : 1.2.2 ==> 2.3.2
-openinterminal : 2.3.2 ==> 2.3.2
-openinterminal-lite : 1.2.2 ==> 2.3.2
 openkey : 2.0.4 ==> 2.0.4
 openmw : 0.46.0 ==> 0.46.0
 opennx : 0.16.0.729 ==> 0.16.0.729
@@ -1290,17 +1244,14 @@ openpht : 1.8.0.148-573b6d73 ==> 1.8.0.148-573b6d73
 openrct2 : 0.3.2 ==> 0.3.2
 openrefine : 3.4.1 ==> 3.4.1
 opensc : 0.21.0 ==> 0.21.0
-openscad : 2019.05 ==> 2021.01
-opensesame : 3.3.6 ==> 3.3.7
+openscad : 2021.01 ==> 2021.01
 openshot-video-editor : 2.5.1 ==> 2.5.1
 opensim : 0.4.3 ==> 0.4.3
-opensong : 3.0.1 ==> 3.4.2
 opentoonz : 1.4.0 ==> 1.4.0
 openttd : 1.10.3 ==> 1.10.3
 openvanilla : 1.6.1,3273 ==> 1.6.1
-openvisualtraceroute : 1.7.1 ==> 1.7.1-1
 openwebstart : 1.3.2 ==> 1.3.2
-operadriver : 87.0.4280.67 ==> 87.0.4280.67
+operadriver : 87.0.4280.67 ==> 88.0.4324.104
 optimage : 3.3.1,185 ==> 3.3.1,185
 orange : 3.27.1 ==> 3.27.1
 orca : 1.3.1 ==> 1.3.1
@@ -1309,10 +1260,8 @@ oscar : 1.2.0 ==> 1.2.0
 oscilloscope : 1.0.8 ==> 1.0.8
 osquery : disabled
 oss-browser : 1.13.0 ==> 1.13.0
-osxfuse : 3.11.2 ==> 4.0.5
-otter-browser : 0.9.99.3 ==> 1.0.81
 outguess : unversioned
-outline : 3.2011.1,2011.1.1 ==> 3.2101.0,2101.0.1
+outline : 3.2101.0,2101.0.1 ==> 3.2101.0,2101.0.1
 output-factory : unversioned
 outset : 3.0.1 ==> 3.0.1
 overkill : 1.0 ==> 1.0
@@ -1331,18 +1280,16 @@ panic-unison : 2.2 ==> 2.2
 paragon-ntfs : 15 ==> 15
 parallels-toolbox : 4.1.1-3698 ==> 4.1.1-3698
 parse : 3.0.5 ==> 3.0.5
-password-gorilla : 1.5.3.7.3 ==> 1.5.3.7
 patchwork : 3.18.0 ==> 3.18.0
-path-finder : 10.0.1,2084 ==> 10.0.1,2084
+path-finder : 10.0.1,2084 ==> 10.0.2,2086
 pb : 11.0.2 ==> 11.0.2
 pd : 0.51-4 ==> 0.51-4
-pd-extended : 0.43.4 ==> 1.20.1
 pd-l2ork : 2.15.2-rev.2d04705d ==> 2.15.2-rev.2d04705d
 pdf-expert : 2.5.17,737 ==> 2.5.17,737
 pdf-images : 1.1 ==> 1.1
 pdf-over : unversioned
 pdf-reader-pro : 2.7.7.1 ==> 2.7.7.1
-pdf-squeezer : 4.2.1,602b ==> 4.2.2,606b
+pdf-squeezer : 4.2.2,607b ==> 4.2.2,607b
 pdfpen : 12.2.1,1221.6 ==> 12.2.1,1221.6
 pdfpenpro : 12.2.1,1221.6 ==> 12.2.1,1221.6
 pdfsam-basic : 4.2.2 ==> 4.2.2
@@ -1402,7 +1349,6 @@ polymail : 2.2.6 ==> 2.2.6
 pomatez : 1.1.0 ==> 1.1.0
 pomello : unversioned
 pomodone : 1.5.1545 ==> 1.5.1545
-pomolectron : 1.1.0 ==> 1.2.0
 pomotroid : 0.13.0 ==> 0.13.0
 popclip : 2020.12,3117 ==> 2020.12,3117
 popmaker : 0.3 ==> 0.3
@@ -1411,10 +1357,8 @@ porting-kit : 3.0.58 ==> 3.0.60
 post-haste : 2.6.5,2650 ==> 2.6.5,2650
 postbird : 0.8.4 ==> 0.8.4
 postbox : 7.0.46 ==> 7.0.46
-posterazor : 1.5 ==> 1.9.5
 postgresql : 13.1 ==> 13.1
-postgrespreferencepane : 2.4.2 ==> 2.6
-postman : 8.0.3 ==> 8.0.3
+postman : 8.0.4 ==> 8.0.4
 powder : unversioned
 powder-player : 1.60 ==> 1.60
 powerphotos : 1.9.3,1760 ==> 1.9.3,1760
@@ -1431,16 +1375,14 @@ prey : 1.9.9 ==> 1.9.9
 prezi-classic : 6.14.0,24153 ==> 6.14.0,24153
 prezi-next : 1.49.0,26948 ==> 1.49.0,26948
 principle : 5.14,5026 ==> 5.14,5026
-printrun : 1.6.0,18Nov2017 ==> 1.6.0,18Nov2017
 prismatik : 6.0.0.104 ==> 6.0.0.104
 pritunl : 1.2.2685.61 ==> 1.2.2685.61
 privatevpn : 3.2.1,126 ==> 3.2.1,126
 privatus : 6.3.4 ==> 6.3.4
 prizmo : 4.1,4.276.2226 ==> 4.1,4.276.2226
 procexp : latest
-proclaim : 3.1.0.0029,311.0.29 ==> 3.1.0.0029,311.0.29
+proclaim : 3.1.0.0029,311.0.29 ==> 3.1.0.0038,311.0.38
 product-hunt : 1.0.3 ==> 1.0.3
-profilecreator : 0.3.2,201907171032-beta ==> 0.3.2
 profind : 1.8.10,1818 ==> 1.8.10,1818
 progressive-downloader : 4.7.1 ==> 4.7.1
 projectlibre : 1.9.3 ==> 1.9.3
@@ -1451,9 +1393,6 @@ protopie : 5.3.0 ==> 5.3.0
 provisioning : 1.0.4 ==> 1.0.4
 provisionql : 1.6.2 ==> 1.6.2
 proxyman : 2.16.1 ==> 2.16.1
-prusaslicer : 2.3.0,202101111304 ==> 3.1.2
-psi : 1.4 ==> 1.5
-psi-plus : 1.4.1472-macOS10.13 ==> 1.5.2021.01.02
 psychopy : 2020.2.10 ==> 2020.2.10
 publii : 0.37.3 ==> 0.37.3
 publish-or-perish : unversioned
@@ -1509,13 +1448,11 @@ qsync-client : 3.6.0.1026 ==> 3.6.0.1026
 qsyncthingtray : 0.5.8 ==> 0.5.8
 qtox : 1.17.3 ==> 1.17.3
 qtpass : 1.3.2 ==> 1.3.2
-qtspim : 9.1.21 ==> 9.1.22
 qtum : 0.20.1 ==> 0.20.1
 quail : 2.3.0 ==> 2.3.0
 quakespasm : 0.93.2 ==> 0.93.2
-quaternion : 0.0.9.4e ==> 0.0.9.4f
 quickboot : 1.1-92 ==> 1.1-92
-quicken : 6.1.0,601.37882.100 ==> 6.1.0,601.37882.100
+quicken : 6.1.0,601.37882.100 ==> 6.1.1,601.37924.100
 quickgeojson : 1.1 ==> 1.1
 quickhue : unversioned
 quickjson : 1.0.0 ==> 1.0.0
@@ -1533,7 +1470,7 @@ quickwords : 0.1.2 ==> 0.1.2
 quiterss : 0.19.4 ==> 0.19.4
 quitter : 1.0,107 ==> 1.0,107
 quodlibet : 4.3.0 ==> 4.3.0
-qutebrowser : 2.0.1 ==> 2.0.1
+qutebrowser : 2.0.1 ==> 2.0.2
 qv2ray : 2.6.3 ==> 2.6.3
 qview : 4.0 ==> 4.0
 qxmledit : 0.9.16 ==> 0.9.16
@@ -1550,7 +1487,6 @@ ransomwhere : 1.2.5 ==> 1.2.5
 rapidminer-studio : unversioned
 rar : 6.0.0 ==> 6.0.0
 raspberry-pi-imager : 1.5 ==> 1.5
-raven : 0.2.0-alpha ==> 0.2.0
 rawtherapee : 5.8 ==> 5.8
 raycast : unversioned
 raze : 0.8.1 ==> 0.8.1
@@ -1574,7 +1510,6 @@ refined-github-safari : 2.1.26 ==> 2.1.27
 reflector : 3.2.1,3210 ==> 3.2.1,3210
 regexhibit : unversioned
 reggy : 1.3 ==> 1.3
-reikey : 1.4.1 ==> 1.4.2
 rember : unversioned
 remote-buddy : unversioned
 remote-desktop-manager : 2020.3.4.0 ==> 2020.3.4.0
@@ -1588,6 +1523,7 @@ retroactive : 1.9 ==> 1.9
 retrobatch : 1.4.3,946 ==> 1.4.3,946
 reveal : 26,13630 ==> 26,13630
 revisions : 3.0.1 ==> 3.0.1
+rhinoceros : 6.33.20343.16432 ==> 6.33.20343.16432
 ricochet : 1.1.4.1 ==> 1.1.4.1
 rightfont : 5.9.0,2817 ==> 5.9.0,2817
 ringcentral : unversioned
@@ -1605,7 +1541,7 @@ roku-remote-tool : unversioned
 rolisteam : 1.9.3 ==> 1.9.3
 roon : unversioned
 rosaimagewriter : 2.6.2 ==> 2.6.2
-rotki : 1.13.0 ==> 1.13.0
+rotki : 1.13.0 ==> 1.13.1
 routebuddy : 4.2.1 ==> 4.2.1
 rowanj-gitx : 0.15,1964 ==> 0.15,1964
 rpvoip : unversioned
@@ -1625,13 +1561,11 @@ sabnzbd : 3.1.1 ==> 3.1.1
 safeincloud-password-manager : unversioned
 sameboy : 0.13.6 ==> 0.13.6
 satellite-eyes : 1.5.0,1153 ==> 1.5.0,1153
-sauce-connect : 4.6.3 ==> 4.6.3
+sauce-connect : 4.6.3 ==> 4.6.4
 save-hollywood : 2.5 ==> 2.5
 scap-workbench : 1.2.1 ==> 1.2.1
 scapple : 1.4,1122 ==> 1.4,1122
 schism-tracker : 20200412 ==> 20200412
-scidavis : 1.26 ==> 2.3
-scidvsmac : 4.21 ==> 4.21-1
 scilab : 6.1.0 ==> 6.1.0
 scout : 2.18.16 ==> 2.18.16
 scrapp : 1.6 ==> 1.6
@@ -1643,7 +1577,6 @@ screenflow : 9.0.7,31680 ==> 9.0.7,31680
 screenfocus : 1.0.1 ==> 1.0.1
 screens : 4.8.4,1609790953 ==> 4.8.4,1609790953
 screens-connect : 4.9.9,21613 ==> 4.9.9,21613
-scribus : 1.5.6.1 ==> 1.5.7
 scriptql : latest
 scrivener : 3.2.2,14632 ==> 3.2.2,14632
 scroll-reverser : 1.8,10433 ==> 1.8,10433
@@ -1678,7 +1611,6 @@ shades : latest
 shadow : unversioned
 shadowsocksx : 2.6.3 ==> 2.6.3
 shadowsocksx-ng : 1.9.4 ==> 1.9.4
-shadowsocksx-ng-r : 1.4.4-r8 ==> 1.4.4-r8-resigning
 sharemouse : unversioned
 sharepod : 4.3.2 ==> 4.3.2
 shellhere : unversioned
@@ -1715,10 +1647,10 @@ simplistic : latest
 simsim : 1.4.4 ==> 1.4.4
 sip : 4.19.24 ==> 4.19.24
 sirimote : 1.3.9,27 ==> 1.3.9,27
-sitebulb : 4.6.2 ==> 4.6.2
+sitebulb : 4.6.2 ==> 4.7
 sixtyforce : unversioned
-sizzy : 48.1.0 ==> 48.1.0
-sketch : 70.3,109109 ==> 70.3,109109
+sizzy : 48.1.0 ==> 49.0.0
+sketch : 70.3,109109 ==> 70.4,109185
 sketch-toolbox : 0.5.1,051 ==> 0.5.1,051
 sketchbook : 8.7.1 ==> 8.7.1
 sketchpacks : latest
@@ -1740,8 +1672,8 @@ slite : 1.2.4 ==> 1.2.4
 sloth : 3.0.1,256 ==> 3.0.1,256
 smallpdf : unversioned
 smcfancontrol : 2.6 ==> 2.6
+smlnj : 110.99 ==> 110.99
 smoothscroll : 1.5.0,10500.1 ==> 1.5.0,10500.1
-smooze : 1.9.12,462 ==> 1.9.14,474
 snagit : unversioned
 snapmotion : 4.5.0,6036 ==> 4.5.0,6036
 snappy : 1.1.8 ==> 1.1.8
@@ -1754,7 +1686,6 @@ sococo : unversioned
 soduto : 1.0.1 ==> 1.0.1
 sofa-server : 1.3.4,2020.0327.100116 ==> 1.3.4,2020.0327.100116
 softraid : 5.8.4 ==> 5.8.4
-solar2d : 2020.3624 ==> 3636
 solvespace : 2.3 ==> 2.3
 sonarr : unversioned
 sonarr-menu : 3.3 ==> 3.3
@@ -1768,6 +1699,7 @@ soundflower : 2.0b2 ==> 2.0b2
 soundflowerbed : 2.0.0 ==> 2.0.0
 soundsource : unversioned
 sourcenote : 1.2.3 ==> 1.2.3
+sourcetrail : 2020.4.35 ==> 2020.4.35
 sourcetree : 4.0.2,236 ==> 4.0.2,236
 space-saver : 0.5 ==> 0.5
 spacelauncher : 1.5,88 ==> 1.5,88
@@ -1781,7 +1713,6 @@ spatterlight : 0.7.5 ==> 0.7.5
 spechtlite : 0.10.7 ==> 0.10.7
 spectacle : 1.2,672 ==> 1.2,672
 spectacle-editor : 0.1.6 ==> 0.1.6
-spectrum : 1.0.5 ==> 3.1.16
 spectx : 1.4.68 ==> 1.4.69
 speedcrunch : 0.12 ==> 0.12
 speedify : unversioned
@@ -1803,7 +1734,6 @@ spyder : 4.2.1 ==> 4.2.1
 sql-tabs : 1.1.0 ==> 1.1.0
 sqlectron : 1.33.0 ==> 1.33.0
 sqleditor : 3.7.4,10817 ==> 3.7.4,10817
-sqlexplorer : 3.6.1 ==> 3.7.0
 sqlitemanager : unversioned
 sqlitestudio : 3.2.1 ==> 3.2.1
 sqlpro-for-mssql : 2020.104 ==> 2020.104
@@ -1811,6 +1741,9 @@ sqlpro-for-mysql : 2020.101 ==> 2020.101
 sqlpro-for-postgres : 2020.96 ==> 2020.96
 sqlpro-for-sqlite : 2020.104 ==> 2020.104
 sqlpro-studio : 2020.104 ==> 2020.104
+squadanimatorgaa : 1.0.4 ==> 1.0.4
+squadanimatorrugby : 1.0.2 ==> 1.0.2
+squadanimatorsoccer : 1.0.2 ==> 1.0.2
 srware-iron : unversioned
 ssh-config-editor : 2.1.2,73 ==> 2.1.2,73
 ssokit : 1.1.0 ==> 1.1.0
@@ -1823,7 +1756,6 @@ starleaf : unversioned
 starsector : 0.9.1a-RC8 ==> 0.9.1a-RC8
 startninja : unversioned
 stashcat : unversioned
-stats : 2.4.14 ==> 2.4.15
 statusfy : 1.4.0 ==> 1.4.0
 stay : 1.3,518 ==> 1.3,518
 steam : 2020-12-21 ==> 2020-12-21
@@ -1849,7 +1781,6 @@ subler : 1.6.10 ==> 1.6.10
 sublercli : 1.5.1 ==> 1.5.1
 subnetcalc : 2.4.17 ==> 2.4.17
 subsurface : 4.9.10 ==> 4.9.10
-subsync : 0.16.0 ==> 0.16
 subtitle-master : 2.0.1 ==> 2.0.1
 subtitles : 3.2.15 ==> 3.2.15
 superbeam : unversioned
@@ -1882,7 +1813,6 @@ switchkey : 1.1.3 ==> 1.1.3
 symboliclinker : 2.2 ==> 2.2
 synalyze-it-pro : 1.23.4 ==> 1.23.4
 sync : unversioned
-sync-my-l2p : 2.4.1 ==> 2.4.2
 syncalicious : 0.0.6 ==> 0.0.6
 syncmate : 8.1.475 ==> 8.1.475
 syncovery : 9.29d ==> 9.29d
@@ -1890,7 +1820,7 @@ syncplay : 1.6.7 ==> 1.6.7
 syncroom : 1.0.3 ==> 1.0.3
 syncsettings : 1.2.4,6008 ==> 1.2.4,6008
 syncterm : 1.1 ==> 1.1
-syncthing : 1.13.0 ==> 1.13.0
+syncthing : 1.13.0 ==> 1.13.1
 synfigstudio : 1.4.0,20201114 ==> 1.4.0,20201114
 syntax-highlight : 1.0.b31 ==> 1.0.b31
 sysdig-inspect : 0.5.0 ==> 0.5.0
@@ -1959,7 +1889,7 @@ thor : 1.5.6 ==> 1.5.6
 thumbsup : 4.5.3 ==> 4.5.3
 thyme : 0.5.1 ==> 0.5.1
 tickeys : 0.5.0 ==> 0.5.0
-ticktick : 3.7.60,168 ==> 3.7.60,168
+ticktick : 3.7.60,168 ==> 3.7.70,169
 tidal : unversioned
 tiddly : 0.0.14 ==> 0.0.14
 tifig : 0.8.0-201712302054 ==> 0.8.0-201712302054
@@ -2063,7 +1993,7 @@ unclack : unversioned
 unclutter : unversioned
 uncolored : 0.10.2 ==> 0.10.2
 uncrustifyx : 0.4.3 ==> 0.4.3
-unetbootin : 700 ==> 700
+unetbootin : 700 ==> 702
 unicodechecker : 1.22,776 ==> 1.22,776
 unified-remote : unversioned
 uninstallpkg : 1.1.9,1405 ==> 1.1.9,1405
@@ -2072,13 +2002,13 @@ unity-hub : unversioned
 unity-web-player : discontinued
 universal-media-server : 10.0.1 ==> 10.0.1
 unlox : unversioned
-unnaturalscrollwheels : 1.2.0 ==> 1.2.0
+unnaturalscrollwheels : 1.2.0 ==> 1.2.2
 unshaky : 0.7.0 ==> 0.7.0
 upic : 0.21.1 ==> 0.21.1
 upm : 1.15.1 ==> 1.15.1
 upterm : 0.4.4 ==> 0.4.4
-upwork : 5.4.9.6,2565cdd0547940a2 ==> 5.4.9.6,2565cdd0547940a2
-usenapp : 0.99.1,299 ==> 0.99.2,300
+upwork : 5.4.9.6,2565cdd0547940a2 ==> 5.5.0.0,c501864210a74fd4
+usenapp : 0.99.1,299 ==> 0.99.3,301
 uxprotect : 1.1.1 ==> 1.1.1
 v2rayu : 2.3.1 ==> 2.3.1
 v2rayx : 1.5.1 ==> 1.5.1
@@ -2088,7 +2018,6 @@ valentina-studio : unversioned
 valley : 1.0 ==> 1.0
 vallum : 3.3.4 ==> 3.3.4
 vapor : 18.3.0 ==> 18.3.0
-vassal : 3.4.13 ==> 3.5.0
 vb-cable : 107 ==> 107
 vcv-rack : 1.1.6 ==> 1.1.6
 git: 'credential-osxkeychain' is not a git command. See 'git --help'.
@@ -2111,7 +2040,7 @@ vimediamanager : 0.7a22 ==> 0.7a22
 vimr : 0.34.0-355 ==> 0.34.0-355
 vin047-abgx360 : 1.0.6 ==> 1.0.6
 vip-access : unversioned
-vipriser : 3.5 ==> 3.5
+vipriser : 3.5 ==> 3.6
 virtual-ii : latest
 virtualbox : 6.1.18,142142 ==> 6.1.18,142142
 virtualbox-extension-pack : 6.1.18 ==> 6.1.18
@@ -2125,7 +2054,7 @@ visit : 3.1.4 ==> 3.1.4
 visual : 1.27 ==> 1.27
 visual-paradigm : 16.2,20210101 ==> 16.2,20210101
 visual-paradigm-ce : 16.2,20210101 ==> 16.2,20210101
-visual-studio-code : 1.52.1 ==> 1.52.1
+visual-studio-code : 1.52.1 ==> 1.53.0
 visualboyadvance-m : 2.1.4 ==> 2.1.4
 visualvm : 2.0.6 ==> 2.0.6
 vitamin-r : 3.23 ==> 3.23
@@ -2159,13 +2088,13 @@ wallpaper-wizard : 2.2.0 ==> 2.2.0
 wanna : 1.0.0-alpha.2+flex ==> 1.0.0-alpha.2+flex
 warsow : 2.1.2 ==> 2.1.2
 wasabi-wallet : 1.1.12.3 ==> 1.1.12.3
-wavebox : 10.0.407.2 ==> 10.0.407.2
+wavebox : 10.0.407.2 ==> 10.0.412.2
 waves-central : unversioned
 wavtap : 0.3.0 ==> 0.3.0
 weakauras-companion : 3.1.1 ==> 3.1.1
 webarchiveextractor : 0.2 ==> 0.2
 webcamoid : 8.7.1 ==> 8.7.1
-webcatalog : 28.2.0 ==> 28.2.0
+webcatalog : 28.4.0 ==> 28.4.0
 webex : unversioned
 webex-meetings : latest
 webex-wrf-player : T33L ==> T33L
@@ -2176,9 +2105,9 @@ webpquicklook : latest
 webrecorder-player : 1.8.0 ==> 1.8.0
 website-watchman : unversioned
 webtorrent : 0.24.0 ==> 0.24.0
-webviewscreensaver : 2.1 ==> 2.1
+webviewscreensaver : 2.1 ==> 2.2
 wechat : unversioned
-wechatwork : 3.1.1.2358 ==> 3.1.1.2358
+wechatwork : 3.1.1.2358 ==> 3.1.2.2364
 weka : 3.8.5 ==> 3.8.5
 welly : 3.1.2 ==> 3.1.2
 wercker : latest
@@ -2206,7 +2135,7 @@ wire : 3.21.3959 ==> 3.21.3959
 wireframe-sketcher : unversioned
 wireshark : 3.4.3 ==> 3.4.3
 wireshark-chmodbpf : 3.4.3 ==> 3.4.3
-witch : 4.3.7,3503 ==> 4.3.7,3503
+witch : 4.3.8,3504 ==> 4.3.8,3504
 wiznote : 2020-08-20 ==> 2020-08-20
 wjoy : discontinued
 wkhtmltopdf : 0.12.6-2 ==> 0.12.6-2
@@ -2229,14 +2158,13 @@ xamarin : latest
 xamarin-ios : 14.8.0.3 ==> 14.8.0.3
 xamarin-mac : 7.2.0.3 ==> 7.2.0.3
 xamarin-workbooks : 1.5.0 ==> 1.5.0
-xaos : 4.2 ==> 4.2.1
 xattred : 1.3,2020.08 ==> 1.3,2020.08
 xca : 2.3.0 ==> 2.3.0
 xcodeclangformat : 1.2.1 ==> 1.2.1
 xdm : unversioned
 xee : 3.5.3,45:1504018134 ==> 3.5.3,45:1504018134
 xiami : 7.5.8,7058,30b52410ba8955c21df3c3555fa75f6c:a916a2565fc172a83bc0106f1f4c23d5 ==> 7.5.8,7058,30b52410ba8955c21df3c3555fa75f6c:a916a2565fc172a83bc0106f1f4c23d5
-ximalaya : 1.7.0,1610336058 ==> 1.7.1,1611898412
+ximalaya : 1.7.0,1610336058 ==> 1.7.2,1612260136
 xit : 1.0b15 ==> 1.0b15
 xld : 20210101,153.1 ==> 20210101,153.1
 xlink-kai : 7.4.39,539601671 ==> 7.4.39,539601671
@@ -2269,7 +2197,7 @@ yt-music : 1.0.6 ==> 1.0.6
 ytmdesktop-youtube-music : 1.13.0 ==> 1.13.0
 yu-writer : 0.5.3,beta ==> 0.5.3,beta
 yuna : 1.4.21 ==> 1.4.21
-zalo : 21.1.2 ==> 21.1.2
+zalo : 21.1.2 ==> 21.1.3
 zappy : 2.8.0 ==> 2.8.0
 zazu : 0.6.0 ==> 0.6.0
 zbuc-imgur : unversioned
@@ -2285,8 +2213,8 @@ zipcleaner : unversioned
 zoho-docs : unversioned
 zoho-workdrive : unversioned
 zoolz : unversioned
-zoom : 5.5.12467.0131 ==> 5.5.12467.0131
-zoom-for-it-admins : 5.5.12467.0131 ==> 5.5.12467.0131
+zoom : 5.5.12484.0202 ==> 5.5.12484.0202
+zoom-for-it-admins : 5.5.12484.0202 ==> 5.5.12484.0202
 zoom-outlook-plugin : unversioned
 zprint : 1.1.1 ==> 1.1.1
 zulip : 5.5.0 ==> 5.5.0
