@@ -333,7 +333,6 @@ clix
 cljstyle
 clock
 clock-bar
-clocker
 clocksaver
 clone-hero
 clonk
@@ -423,8 +422,6 @@ datazenit
 datovka
 davmail
 db-browser-for-sqlite
-dbeaver-community
-dbeaver-enterprise
 dbngin
 dcommander
 deckset
@@ -464,7 +461,6 @@ dogecoin
 dolphin
 domainbrain
 dosbox
-dosbox-x
 doteditor
 double-commander
 downie
@@ -481,11 +477,8 @@ dteoh-devdocs
 dungeon-crawl-stone-soup-console
 dungeon-crawl-stone-soup-tiles
 duo-connect
-dupeguru
 duplicacy-web-edition
 duplicati
-dusty
-dvdstyler
 dwihn0r-keepassx
 dyn-updater
 dynamic-dark-mode
@@ -544,8 +537,6 @@ expressions
 extraterm
 falcon-sql-client
 fanny
-fantasy-map-generator
-fastrawviewer
 fauxpas
 faxbot
 fedora-media-writer
@@ -564,13 +555,11 @@ finicky
 firebase-admin
 firebird-emu
 firecamp
-firefox
 fiscript
 fl-studio
 flame
 flexiglass
 flic
-flightgear
 flipper
 fliqlo
 flirc
@@ -581,7 +570,6 @@ flowsync
 flume
 fluor
 flux
-fly
 flycut
 flying-carpet
 fman
@@ -602,7 +590,6 @@ fork
 forklift
 foxitreader
 foxmail
-fpcsrc
 franz
 freac
 fredm-fuse
@@ -610,7 +597,6 @@ free-ruler
 freecad
 freecol
 freedom
-freemind
 freenettray
 freeorion
 freesmug-chromium
@@ -621,7 +607,6 @@ fs-uae
 fsmonitor
 funter
 fuse
-fvim
 g-desktop-suite
 ganache
 ganttproject
@@ -632,7 +617,6 @@ gb-studio
 gcollazo-mongodb
 gdisk
 gdlauncher
-geany
 gearboy
 gearsystem
 geburtstagschecker
@@ -675,16 +659,11 @@ glyphs
 gmail-notifier
 gmvault
 gns3
-gnucash
-go-agent
-go-server
 go2shell
 gobdokumente
 godot
 godot-mono
 gog-galaxy
-gogs
-goldendict
 goofy
 google-chat
 gopass-ui
@@ -744,7 +723,6 @@ hiarcs-chess-explorer
 hiddenbar
 hocus-focus
 holavpn
-home-assistant
 honer
 hookshot
 hopper-debugger-server
@@ -754,9 +732,7 @@ hoststool
 hot
 houdahspot
 hstracker
-http-toolkit
 hubstaff
-hugin
 hwsensors
 hype
 switch
@@ -783,7 +759,6 @@ igetter
 iglance
 igv
 iina
-iina-plus
 ilok-license-manager
 ilya-birman-typography-layout
 image-tool
@@ -806,7 +781,6 @@ instant-articles-builder
 intel-haxm
 interarchy
 intune-company-portal
-invesalius
 invisiblix
 invisionsync
 invisor-lite
@@ -828,7 +802,6 @@ isteg
 isubtitle
 itch
 iterm2
-ithoughtsx
 itools
 itsycal
 itubedownloader
@@ -855,7 +828,6 @@ jitsi
 jitsi-meet
 jollysfastvnc
 joshjon-nocturnal
-josm
 journey
 jubler
 juicebar
@@ -886,7 +858,6 @@ kextviewr
 keyboard-lock
 keycast
 keycastr
-keycue
 keypad-layout
 keysmith
 keystore-explorer
@@ -929,18 +900,15 @@ lando
 lantern
 laravel-kit
 lastfm
-lastpass
 latexdraw
 launchcontrol
 launchrocket
 laverna
-lazarus
 lazpaint
 league-displays
 leap-motion
 leela
 lego-mindstorms-ev3
-lektor
 lens
 leocad
 lepton
@@ -959,7 +927,6 @@ linkliar
 listen1
 litecoin
 liteicon
-liteide
 little-navmap
 littlesecrets
 livereload
@@ -973,7 +940,6 @@ locationsimulator
 lockdown
 lockrattler
 lofi
-logdna-agent
 logdna-cli
 logicalshift-zoom
 logisim
@@ -1021,7 +987,6 @@ macwinzipper
 macx-video
 maczip
 magic-launch
-magicavoxel
 magiccap
 magicprefs
 mailspring
@@ -1032,12 +997,8 @@ mame
 mamp
 manico
 manta
-manuskript
 mapillary-uploader
 mapture
-marathon
-marathon-infinity
-marathon2
 marble
 marginnote
 mari0
@@ -1059,7 +1020,6 @@ master-pdf-editor
 masterway-note
 mat
 mate-translate
-mater
 material-colors
 mathpix-snipping-tool
 mathtype
@@ -1099,7 +1059,6 @@ melonds
 memo
 memory
 memory-clean-3
-memory-map
 mendeley
 mendeley-reference-manager
 menubar-colors
@@ -1122,7 +1081,6 @@ metaimage
 metashape
 metashapepro
 metasploit
-metaz
 meteorologist
 mgba
 mi
@@ -1139,7 +1097,6 @@ microsoft-lync
 microsoft-office
 microsoft-outlook
 microsoft-powerpoint
-microsoft-r-open
 microsoft-teams
 microsoft-word
 middle
@@ -1152,7 +1109,6 @@ mikogo
 miktex-console
 milanote
 milkman
-milkytracker
 mimecast
 min
 mindforger
@@ -1184,7 +1140,6 @@ mkchromecast
 mks
 mkvtoolnix
 mkvtools
-mmex
 mmhmm
 mnemosyne
 mob
@@ -1298,7 +1253,6 @@ name-mangler
 namechanger
 nano
 nanostudio
-napari
 nasas-eyes
 native-access
 nativedisplaybrightness
@@ -1330,7 +1284,6 @@ nitroshare
 no-ip-duc
 nocturn
 nocturnal
-nodebox
 noisebuddy
 nomad
 noraswitch
@@ -1352,21 +1305,17 @@ nrlquaker-winbox
 nslogger
 nsregextester
 ntfstool
-nuclear
 nucleo
 nulloy
 nullpomino
 numi
 nvalt
 nvidia-geforce-now
-nwjs
 nzbget
 nzbvortex
 objectivesharpie
 objektiv
 obs
-obs-ndi
-obs-virtualcam
 obs-websocket
 obsidian
 obyte
@@ -1378,7 +1327,6 @@ odrive
 ogdesign-eagle
 okta-advanced-server-access
 olive
-omegat
 omnidazzle
 omnidisksweeper
 omnifocus
@@ -1401,9 +1349,6 @@ opencore-configurator
 opencpn
 opendnsupdater
 openemu
-openineditor-lite
-openinterminal
-openinterminal-lite
 openkey
 openlp
 openmw
@@ -1415,14 +1360,10 @@ openrct2
 openrefine
 opensc
 openscad
-opensesame
 openshot-video-editor
 opensim
-opensong
 opentoonz
 openttd
-openvanilla
-openvisualtraceroute
 openwebstart
 operadriver
 optimage
@@ -1433,8 +1374,6 @@ oscar
 oscilloscope
 osquery
 oss-browser
-osxfuse
-otter-browser
 outguess
 outline
 output-factory
@@ -1455,13 +1394,11 @@ panic-unison
 paragon-ntfs
 parallels-toolbox
 parse
-password-gorilla
 patchwork
 path-finder
 pb
 pcoipclient
 pd
-pd-extended
 pd-l2ork
 pdf-converter-master
 pdf-expert
@@ -1532,7 +1469,6 @@ polyphone
 pomatez
 pomello
 pomodone
-pomolectron
 pomotodo
 pomotroid
 popclip
@@ -1542,9 +1478,7 @@ porting-kit
 post-haste
 postbird
 postbox
-posterazor
 postgres
-postgrespreferencepane
 postico
 postman
 powder
@@ -1577,7 +1511,6 @@ pro-fit
 procexp
 proclaim
 product-hunt
-profilecreator
 profilemanager
 profind
 programmer-dvorak
@@ -1592,10 +1525,7 @@ protopie
 provisioning
 provisionql
 proxyman
-prusaslicer
 psequel
-psi
-psi-plus
 psychopy
 publii
 publish-or-perish
@@ -1653,12 +1583,10 @@ qsync-client
 qsyncthingtray
 qtox
 qtpass
-qtspim
 qtum
 qtvlm
 quail
 quakespasm
-quaternion
 quickboot
 quicken
 quickgeojson
@@ -1696,7 +1624,6 @@ ransomwhere
 rapidminer-studio
 rar
 raspberry-pi-imager
-raven
 rawtherapee
 raycast
 raze
@@ -1720,7 +1647,6 @@ refined-github-safari
 reflector
 regexhibit
 reggy
-reikey
 rember
 remote-buddy
 remote-desktop-manager
@@ -1791,8 +1717,6 @@ scap-workbench
 scapple
 scenebuilder
 schism-tracker
-scidavis
-scidvsmac
 scilab
 scout
 scrapp
@@ -1805,7 +1729,6 @@ screenflow
 screenfocus
 screens
 screens-connect
-scribus
 script-debugger
 scriptql
 scrivener
@@ -1857,7 +1780,6 @@ shades
 shadow
 shadowsocksx
 shadowsocksx-ng
-shadowsocksx-ng-r
 shapes
 sharemouse
 sharepod
@@ -1952,7 +1874,6 @@ smartsynchronize
 smcfancontrol
 smlnj
 smoothscroll
-smooze
 smultron
 snagit
 snapmotion
@@ -1976,7 +1897,6 @@ softorino-youtube-converter
 softraid
 softube-central
 sogouinput
-solar2d
 solvespace
 sonarr
 sonarr-menu
@@ -2009,7 +1929,6 @@ spatterlight
 spechtlite
 spectacle
 spectacle-editor
-spectrum
 spectx
 speedcrunch
 speedify
@@ -2035,7 +1954,6 @@ sql-power-architect-jdbc
 sql-tabs
 sqlectron
 sqleditor
-sqlexplorer
 sqlitemanager
 sqlitestudio
 sqlpro-for-mssql
@@ -2068,7 +1986,6 @@ startupizer
 staruml
 stashcat
 stationtv-link
-stats
 statusfy
 stay
 steam
@@ -2101,7 +2018,6 @@ sublime-merge
 sublime-text
 subnetcalc
 subsurface
-subsync
 subtitle-master
 subtitles
 subtools
@@ -2145,7 +2061,6 @@ switchresx
 symboliclinker
 synalyze-it-pro
 sync
-sync-my-l2p
 syncalicious
 syncmate
 syncovery
@@ -2334,7 +2249,6 @@ trayplay
 treesheets
 tresorit
 trezor-bridge
-tribler
 trilium-notes
 trim-enabler
 trinity
@@ -2423,7 +2337,6 @@ upwork
 usage
 usb-overdrive
 use-engine
-usenapp
 utc-menu-clock
 utools
 uu-booster
@@ -2438,7 +2351,6 @@ valley
 vallum
 vanilla
 vapor
-vassal
 vb-cable
 vcv-rack
 vectr
@@ -2617,7 +2529,6 @@ xamarin-studio
 xamarin-workbooks
 xampp
 xampp-vm
-xaos
 xattred
 xbench
 xca
@@ -2626,7 +2537,6 @@ xctu
 xdm
 xee
 xiami
-ximalaya
 xit
 xld
 xlink-kai
