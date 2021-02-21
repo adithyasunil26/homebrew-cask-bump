@@ -523,9 +523,7 @@ epoch-flip-clock
 epubmdimporter
 epubquicklook
 eqmac
-espresso
 ethereum-wallet
-eul
 evernote
 exactscan
 exfalso
@@ -562,10 +560,6 @@ flic
 flipper
 fliqlo
 flirc
-flow
-flow-e
-flowdock
-flowsync
 flume
 fluor
 flux
@@ -902,7 +896,6 @@ league-displays
 leap-motion
 leela
 lego-mindstorms-ev3
-lens
 leocad
 lepton
 librecad
