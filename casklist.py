@@ -8,7 +8,6 @@ adguard
 adium
 adventure
 aerial
-aether
 agenda
 air-connect
 air-video-server-hd
@@ -346,7 +345,6 @@ coccinellida
 cockatrice
 cocoapods
 cocoarestclient
-coconutbattery
 coconutid
 code-notes
 codeexpander
@@ -560,9 +558,7 @@ flic
 flipper
 fliqlo
 flirc
-flume
 fluor
-flux
 flycut
 flying-carpet
 fman
@@ -572,13 +568,11 @@ focus-booster
 focused
 fog
 fontexplorer-x-pro
-fontforge
 fontgoggles
 fontlab
 fontplop
 force-paste
 forecast
-foreman
 fork
 forklift
 foxitreader
@@ -596,7 +590,6 @@ freesmug-chromium
 freetube
 fritzing
 fromscratch
-fs-uae
 fsmonitor
 funter
 fuse
@@ -1270,7 +1263,6 @@ no-ip-duc
 nocturn
 nocturnal
 noisebuddy
-nomad
 noraswitch
 nordvpn
 nordvpn-teams
