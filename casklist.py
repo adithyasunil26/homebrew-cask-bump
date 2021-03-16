@@ -1353,7 +1353,6 @@ prezi-next
 prince
 principle
 prismatik
-pritunl
 privatevpn
 privatus
 prizmo
