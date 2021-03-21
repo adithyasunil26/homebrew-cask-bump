@@ -2,7 +2,6 @@ a="""
 abstract
 abyssoft-teleport
 ace-link
-acorn
 activitywatch
 adguard
 adium
