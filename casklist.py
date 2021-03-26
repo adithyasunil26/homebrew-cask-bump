@@ -813,7 +813,6 @@ leap-motion
 leela
 lego-mindstorms-ev3
 leocad
-lepton
 librecad
 lidarr
 lightgallery
@@ -858,7 +857,6 @@ luxmark
 luyten
 lx-music
 lyn
-lynx
 lyricsx
 m3unify
 mac2imgur
@@ -895,12 +893,10 @@ mailspring
 majsoul-plus
 makemkv
 malwarebytes
-mame
 mamp
 manico
 manta
 mapillary-uploader
-mapture
 marble
 marginnote
 mari0
@@ -908,10 +904,7 @@ maria
 mark-text
 markdown-service-tools
 markdownmdimporter
-marked
 markright
-mars
-marsedit
 marshallofsound-google-play-music-player
 marta
 marvel
@@ -920,7 +913,6 @@ masscode
 massreplaceit
 master-pdf-editor
 masterway-note
-mat
 mate-translate
 material-colors
 mathpix-snipping-tool
