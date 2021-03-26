@@ -1,5 +1,4 @@
 a="""
-abstract
 abyssoft-teleport
 ace-link
 activitywatch
@@ -230,7 +229,6 @@ buttercup
 bwana
 c0re100-qbittorrent
 cabal
-cacher
 caffeine
 calendar-366
 calibre
@@ -577,7 +575,6 @@ gitify
 gitnote
 gitpigeon
 gitter
-gitup
 gitx
 glance
 glimmerblocker
