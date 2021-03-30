@@ -427,7 +427,6 @@ duplicati
 dwihn0r-keepassx
 dyn-updater
 dynamic-dark-mode
-dynobase
 eagle
 easy-move-plus-resize
 easyeda
