@@ -1347,7 +1347,6 @@ pusher
 pushplaylabs-sidekick
 putio-adder
 puush
-puzzles
 pwnagetool
 pynsource
 pyzo
