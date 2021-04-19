@@ -19,12 +19,13 @@ for i in op:
   if i!='':
     l=i.split(": ")
     if l[0]!='':
-      if l[1] not in ['unversioned','latest','discontinued','deprecated','versioned','disabled']:
+      if l[1] not in ['unversioned','latest','discontinued','deprecated','versioned','disabled','skipped - unversioned URL','skipped - No version information available']:
         if l[0] not in ['Error','Warning','git','fatal']:
           name=l[0]
           m=l[1].split(' ==> ')[0]
           n=l[1].split(' ==> ')[1]
           if m!=n:
+            # print(i)
             command="brew bump-cask-pr --version={} {}".format(n,name)
             print(command)
             #os.system(command)
