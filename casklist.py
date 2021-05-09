@@ -4,7 +4,6 @@ ace-link
 activitywatch
 adguard
 adium
-adventure
 aerial
 agenda
 air-connect
@@ -1984,8 +1983,6 @@ tiled
 tiles
 timche-gmail-desktop
 time-lapse-assembler
-time-out
-time-sink
 time-to-leave
 time-tracker
 timecamp
@@ -1997,8 +1994,6 @@ timer
 timestamp
 timeular
 timing
-timings
-tinderbox
 tinkerwell
 tiny-player
 tinymediamanager
@@ -2011,18 +2006,14 @@ tn3270-x
 tnefs-enough
 today-scripts
 todometer
-todos
 todotxt
 tofu
 toggl-track
 toinane-colorpicker
 tomighty
-tongbu
 tonido
 toolreleases
-toontown-rewritten
 topcat
-toptracker
 torrent-file-editor
 touch-bar-pong
 touch-bar-simulator
