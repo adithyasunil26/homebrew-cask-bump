@@ -1792,7 +1792,6 @@ stashcat
 stationtv-link
 statusfy
 stay
-steam
 steamcmd
 steermouse
 stella
@@ -2175,7 +2174,6 @@ vox-preferences-pane
 voxql
 vpn-enabler
 vscodium
-vsee
 vu
 vuze
 vv
