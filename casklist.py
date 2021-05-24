@@ -1683,7 +1683,6 @@ smultron
 snagit
 snapmotion
 snapndrag
-snappy
 sneek
 snes9x
 snip
