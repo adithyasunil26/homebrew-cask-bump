@@ -1,13 +1,12 @@
 import os
-import re 
-import sys
+import numpy as np
 from datetime import date
 
-from casklist import a
+with open('casklist.npy', 'rb') as f:
+    a = np.load(f)
 
 logfilename=str(date.today())
 
-a=a.replace("\n","\t").replace(" ","\t").split("\t")
 for k in a:
     if k!='':
       os.system("brew livecheck {} >> {}".format(k,logfilename))
