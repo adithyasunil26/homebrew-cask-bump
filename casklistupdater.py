@@ -8,8 +8,8 @@ os.chdir('/usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask/Casks')
 casks = []
 
 for i in os.listdir():
-  for j in os.listdir(i):
-    casks.append(j.split('.')[0])
+    for j in os.listdir(i):
+        casks.append(j.split('.')[0])
 
 os.chdir(dir)
 
