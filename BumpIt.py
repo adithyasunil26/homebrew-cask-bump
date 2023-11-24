@@ -20,8 +20,10 @@ with open(scriptfilename, 'a') as file:
     for i in tqdm(op):
         if i!='':
             l=i.split(": ")
-            if l[0]!='':
-                if l[1] not in ['unversioned','latest','discontinued','deprecated','versioned','disabled','skipped - unversioned URL','skipped - No version information available','skipped - only works with POST request','skipped - unversioned QT application','skipped - unversioned Java application','skipped - No reliable way to get version info','skipped - version is contained in the mounted DMG volume name']:
+            if l[0] not in ['','curl']:
+                if l[1] not in ['unversioned','latest','discontinued','deprecated','versioned','disabled']:
+                    if l[1].startswith('skipped - '):
+                        continue
                     if l[0] not in ['Error','Warning','git','fatal']:
                         name=l[0]
                         m=l[1].split(' ==> ')[0]
