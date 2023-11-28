@@ -13,5 +13,7 @@ for i in os.listdir():
 
 os.chdir(dir)
 
-with open('casklist.npy', 'wb') as f:
+with open('casklist_test.npy', 'wb') as f:
     np.save(f, casks)
+
+print("Number of casks = "+str(np.size(casks)))
