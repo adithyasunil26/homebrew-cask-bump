@@ -12,13 +12,10 @@ Run the script using
 python BumpIt.py
 ```
 
-This will print the bump-pr statements to the terminal which can be run by simply pasting back into the terminal.
-
-If you want to write these outputs to a bash script instead and execute use
+This will print the bump-pr statements to a bash script and to execute use
 
 ```bash
-python BumpIt.py > <filename>.sh
-bash <filename>.sh
+bash <date>_script.sh
 ```
 
 Although it is possible to directly send the PRs from within the BumpIt script(simply uncomment the last line in the script), it is reccomended that you print to terminal or file and examine before executing as livecheck might sometimees return versions that are unstable releases or pre-releases.
